@@ -8,7 +8,6 @@ website:
     right:
       - href: pages/index.qmd
         text: "Home"
-      - pages/about.qmd
       - href: pages/CV/experience.qmd
         text: "Education & Experience"
       - href: pages/CV/projects.qmd
