@@ -1,20 +1,26 @@
 project:
   type: website
   output-dir: docs
-website:
-  title: "simb2.github.io"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
 
+website:
+  title: "Simran's Personal Website"
+  navbar:
+    right:
+      - href: pages/index.qmd
+        text: "Home"
+      - pages/about.qmd
+      - href: pages/CV/experience.qmd
+        text: "Education & Experience"
+      - href: pages/CV/projects.qmd
+        text: "Graduate Projects"
+      - href: pages/Interests/readings.qmd
+        text: "Readings"
+      - href: pages/Interests/other_interests.qmd
+        text: "Other Hobbies"
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: lux
     css: styles.css
     toc: true
 
 editor: visual
-
