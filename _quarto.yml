@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Simran's Personal Website"
+  site-url: https://simb2.github.io
   navbar:
     right:
       - href: pages/index.qmd
