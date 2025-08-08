@@ -1,11 +1,19 @@
 ---
-title: "simb2.github.io"
+title: "Simranjeet Bilkhu"
 ---
 
-This is a Quarto website.
+## Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Behold your luck! It seems that you have managed to find your way to my little site. My intention for this site is to allow strangers to know me a little better, and for potential academic supervisors and employers to assess my whether my skills and interests align with what they are seeking.
 
-```{r}
-1 + 1
-```
+## About Me
+
+I'm currently in my final few months of my Master's in Statistics at McMaster. This has been a rather good program. I (and hopefully my cohort) have acquired a lot of good practical skills in our modelling courses, both in coding as well as model fitting. I've also been given great introduction's to probability theory, stochastic processes, and Bayesian non-parametrics from non other than Dr. Foreman and Dr. Feng. I really have learned a lot taking this track, and perhaps I've learned an equal amount about myself. I began to realize why exactly I'm drawn to doing all this hard stuff; it's because I love learning with a reckless abandon. I love breaking complex concepts down, and understanding things right from the ground up. Abusing this analogy, I would describe my learning process as follows: 
+
+Suppose I was given the process of building a house by myself. Of course, since I don't have the current knowledge on how to build one, my task would be first would be to find a house (preferably abandoned), and start taking it apart. 
+
+Perhaps being a subject of my own confirmation bias, I hold the opinion that my passion for learning the inner workings of things have a good edge when it comes to this era of generative AI since I seldom will allow myself to use something that I don't know how works. 
+
+So now the question is why did a choose statistics as my main target of obsession? Truth be told, part of it, like all decisions, was chance (I'm going to refrain from making a probability joke here). I just so happened to be lucky enough to stumble across a field that with such depth that continues to amaze me the deeper I go into.
+
+## 

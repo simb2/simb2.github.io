@@ -1,8 +1,6 @@
 project:
   type: website
   output-dir: docs
-  pre-render: 
-    - "bash scripts/clean_docs.sh"
 
 website:
   title: "Simran's Personal Website"
