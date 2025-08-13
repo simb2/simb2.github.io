@@ -4,20 +4,34 @@
     "href": "pages/index.html",
     "title": "Simranjeet Bilkhu",
     "section": "",
-    "text": "Behold your luck! It seems that you have managed to find your way to my little site. My intention for is to allow strangers to know me a little better, and for potential academic supervisors or employers to assess whether my skills and interests align with what they are seeking."
+    "text": "Behold your luck! It seems that you have managed to find your way to my little site. My intention for is to allow strangers to know me a little better, and for potential academic supervisors or employers to assess whether my skills and interests align with what they are seeking.\n\n\n\nA picture of me"
   },
   {
     "objectID": "pages/index.html#welcome",
     "href": "pages/index.html#welcome",
     "title": "Simranjeet Bilkhu",
-    "section": "",
-    "text": "Behold your luck! It seems that you have managed to find your way to my little site. My intention for is to allow strangers to know me a little better, and for potential academic supervisors or employers to assess whether my skills and interests align with what they are seeking."
+    "section": "Welcome!",
+    "text": "Welcome!\nBehold your luck! It seems that you have managed to find your way to my little site. My intention for is to allow strangers to know me a little better, and for potential academic supervisors or employers to assess whether my skills and interests align with what they are seeking.\n\n\n\nA picture of me"
   },
   {
     "objectID": "pages/index.html#about-me",
     "href": "pages/index.html#about-me",
     "title": "Simranjeet Bilkhu",
     "section": "About Me",
-    "text": "About Me\nI’m currently in my final few months of my Master’s in Statistics at McMaster under the supervision of Dr. Pratheepa Jeganathan. This has been a rather good program. I (and hopefully my cohort) have acquired a lot of good practical skills in our modelling courses, both in coding as well as communication. I’ve also been given great introductions to probability theory, stochastic processes, and bayesian nonparametrics from non other than Dr. Noah Forman, and Dr. Shui Feng. I really have learned a lot taking this track, and perhaps I’ve learned an equal amount about myself. I began to realize why exactly I’m drawn to doing all this hard stuff; it’s because I love learning with a reckless abandon. I love breaking complex concepts down, and understanding things right from the ground up. Abusing this analogy, I would describe my learning process as follows:\nSuppose I was given the process of building a house by myself. Of course, since I don’t have the current knowledge on how to build one, my task would be first would be to find a house (preferably abandoned), and start taking it apart.\nPerhaps being a subject of my own confirmation bias, I hold the opinion that my passion for learning the inner workings of things gives me an edge in this era of generative AI. I seldom allow myself to use something without first understanding how it works.\nSo now the question is: why did I choose statistics as my main target of obsession? Truth be told, part of it, like all decisions, was chance (I’m going to refrain from making a probability joke here). I just so happened to be lucky enough to stumble across a field with such depth that it continues to amaze me the further I go. I love the fact that I can improve myself as a statistician by challenging myself mathematically, or by improving my programming knowledge.\nBut of course, it’s good to have other passions asides from statistics as well. Along with projects and resources apt for my professional portfolio, you may find some sections of this site non-career related, so feel free to take a look!"
+    "text": "About Me\nI’m currently in my final few months of my Master’s in Statistics at McMaster under the supervision of Dr. Pratheepa Jeganathan. This has been a rather good program. I (and hopefully my cohort) have acquired a lot of good practical skills in our modelling courses, both in coding as well as communication. I’ve also been given great introductions to probability theory, stochastic processes, and bayesian nonparametrics from non other than Dr. Noah Forman, and Dr. Shui Feng. I really have learned a lot taking this track, and perhaps I’ve learned an equal amount about myself. I began to realize why exactly I’m drawn to doing all this hard stuff; it’s because I love learning with a reckless abandon. I love breaking complex concepts down, and understanding things right from the ground up. Abusing this analogy, I would describe my learning process as follows:\nSuppose I was given the process of building a house by myself. Of course, since I don’t have the current knowledge on how to build one, my task would be first would be to find a house (preferably abandoned), and start taking it apart.\n\n\n\nMade with ChatGPT 5\n\n\nPerhaps being a subject of my own confirmation bias, I hold the opinion that my passion for learning the inner workings of things gives me an edge in this era of generative AI. I seldom allow myself to use something without first understanding how it works.\nSo now the question is: why did I choose statistics as my main target of obsession? Truth be told, part of it, like all decisions, was chance (I’m going to refrain from making a probability joke here). I just so happened to be lucky enough to stumble across a field with such depth that it continues to amaze me the further I go. I love the fact that I can improve myself as a statistician by challenging myself mathematically, or by improving my programming knowledge.\nBut of course, it’s good to have other passions asides from statistics as well. Along with projects and resources apt for my professional portfolio, you may find some sections of this site non-career related, so feel free to take a look!"
+  },
+  {
+    "objectID": "pages/CV/experience.html",
+    "href": "pages/CV/experience.html",
+    "title": "Education & Relevant Work Experience",
+    "section": "",
+    "text": "McMaster University | Sept 2024 (Ongoing)\n- CGPA: 11.87/12\n\n\n\nSpecialization in Applied Statistics | Minor in Mathematics\nSept 2018 – Apr 2024\n- CGPA (final 2 yrs - 10.5 out of 20.5 total credits): 3.76/4.00\n\n\n\nMcMaster University | Sept 2024 – Dec 2024\n- Led exam review sessions and explained statistical concepts to students\n- Guided practice problem walkthroughs and clarified solutions\n- Provided one-on-one assistance during office hours\n\n\n\nIndependent Project | May 2024 – Aug 2024\n- Processed raster climate data over time\n- Compared K-Means and Agglomerative clustering using silhouette analysis\n- Applied PCA for dimensionality reduction and preprocessing"
+  },
+  {
+    "objectID": "pages/CV/experience.html#education",
+    "href": "pages/CV/experience.html#education",
+    "title": "Education & Relevant Work Experience",
+    "section": "",
+    "text": "McMaster University | Sept 2024 (Ongoing)\n- CGPA: 11.87/12\n\n\n\nSpecialization in Applied Statistics | Minor in Mathematics\nSept 2018 – Apr 2024\n- CGPA (final 2 yrs - 10.5 out of 20.5 total credits): 3.76/4.00\n\n\n\nMcMaster University | Sept 2024 – Dec 2024\n- Led exam review sessions and explained statistical concepts to students\n- Guided practice problem walkthroughs and clarified solutions\n- Provided one-on-one assistance during office hours\n\n\n\nIndependent Project | May 2024 – Aug 2024\n- Processed raster climate data over time\n- Compared K-Means and Agglomerative clustering using silhouette analysis\n- Applied PCA for dimensionality reduction and preprocessing"
   }
 ]

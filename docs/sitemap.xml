@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://simb2.github.io/pages/index.html</loc>
-    <lastmod>2025-08-08T14:34:39.463Z</lastmod>
+    <lastmod>2025-08-12T02:33:37.659Z</lastmod>
   </url>
   <url>
     <loc>https://simb2.github.io/pages/CV/projects.html</loc>
@@ -10,6 +10,14 @@
   </url>
   <url>
     <loc>https://simb2.github.io/pages/CV/experience.html</loc>
-    <lastmod>2025-08-07T22:03:10.773Z</lastmod>
+    <lastmod>2025-08-09T02:50:15.264Z</lastmod>
+  </url>
+  <url>
+    <loc>https://simb2.github.io/pages/Interests/readings.html</loc>
+    <lastmod>2025-08-07T22:04:00.651Z</lastmod>
+  </url>
+  <url>
+    <loc>https://simb2.github.io/pages/Interests/other_interests.html</loc>
+    <lastmod>2025-08-07T22:04:00.737Z</lastmod>
   </url>
 </urlset>
