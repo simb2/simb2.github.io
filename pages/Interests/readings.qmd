@@ -1,4 +1,36 @@
 ---
-title: "readings"
+title: "Readings and Resources"
 format: html
 ---
+
+As stated in my bio, I love learning. I've added some of my favourite resources below. Of course, I can only add things I've read at least a couple of chapters of. If you disagree with some of my resources or have any suggestions, feel free to contact me.
+
+## Math
+
+### Analysis
+
+Understanding Analysis by Steven Abbott\
+Real Analysis by Royden and Fitzpatrick\
+Real Analysis by Folland\
+
+### Linear Algebra
+
+Linear Algebra Done Right by Sheldon Axler\
+Linear Algebra and it's Applications by Gilbert Strang\
+
+### Probability Theory
+
+*Knowing the Odds: An Introduction to Probability by John B. Walsh
+Probability: Theory and Examples by Rick Durrett
+Probability and Stochastics by Erhan Cinlar
+
+### Other
+
+Complex Variables by Steven D. Fisher
+A Walk Through Combinatorics by Miklos Bona
+
+
+## Statistics
+Statistical Inference by Berger and Casella
+Bayesian Forecasting and Dynamic Models by Mike West and Jeff Harrison
+
