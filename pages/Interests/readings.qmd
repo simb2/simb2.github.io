@@ -20,17 +20,25 @@ Linear Algebra and it's Applications by Gilbert Strang\
 
 ### Probability Theory
 
-*Knowing the Odds: An Introduction to Probability by John B. Walsh
-Probability: Theory and Examples by Rick Durrett
-Probability and Stochastics by Erhan Cinlar
+*Knowing the Odds: An Introduction to Probability by John B. Walsh\
+Probability: Theory and Examples by Rick Durrettc\
+Probability and Stochastics by Erhan Cinlar\
 
 ### Other
 
-Complex Variables by Steven D. Fisher
-A Walk Through Combinatorics by Miklos Bona
+Complex Variables by Steven D. Fisher\
+A Walk Through Combinatorics by Miklos Bona\
 
 
 ## Statistics
-Statistical Inference by Berger and Casella
-Bayesian Forecasting and Dynamic Models by Mike West and Jeff Harrison
+Statistical Inference by Berger and Casella\
+Bayesian Forecasting and Dynamic Models by Mike West and Jeff Harrison\
+An Introduction to Statistical Learning with Applications in R\
+Probabilistic Machine Learning: An Introduction by Kevin Patrick Murphy\
+
+## Programming
+R for Data Science by Hadley Wickham and Garrett Grolemund\
+Python Data Science Handbook\
+Introduction to Computation and Programming Using Python by John V. Guttag
+
 

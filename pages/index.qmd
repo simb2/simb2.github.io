@@ -2,8 +2,6 @@
 title: "Simranjeet Bilkhu"
 ---
 
-## 
-
 ## Welcome!
 
 Behold your luck! It seems that you have managed to find your way to my little site. My intention for is to allow strangers to know me a little better, and for potential academic supervisors or employers to assess whether my skills and interests align with what they are seeking.
@@ -23,3 +21,11 @@ Perhaps being a subject of my own confirmation bias, I hold the opinion that my 
 So now the question is: why did I choose statistics as my main target of obsession? Truth be told, part of it, like all decisions, was chance (I'm going to refrain from making a probability joke here). I just so happened to be lucky enough to stumble across a field with such depth that it continues to amaze me the further I go. I love the fact that I can improve myself as a statistician by challenging myself mathematically, or by improving my programming knowledge.
 
 But of course, it's good to have other passions asides from statistics as well. Along with projects and resources apt for my professional portfolio, you may find some sections of this site non-career related, so feel free to take a look!
+
+## Contact Me
+
+E-mail: bilkhs2\@mcmaster.ca
+
+Github:
+
+LinkdIn:
