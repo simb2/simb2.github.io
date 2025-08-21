@@ -39,6 +39,7 @@ Probabilistic Machine Learning: An Introduction by Kevin Patrick Murphy\
 ## Programming
 R for Data Science by Hadley Wickham and Garrett Grolemund\
 Python Data Science Handbook\
-Introduction to Computation and Programming Using Python by John V. Guttag
+Introduction to Computation and Programming Using Python by John V. Guttag\
+The R Inferno by Patrick Burns\
 
 
