@@ -7,13 +7,13 @@ Here are some projects that I'm at least somewhat proud of. For now, I'm just ad
 
 ## Probability Theory and Stochastic Processes
 
-[Presentation on Martingales and related processes](files/Probability_and_Stochastics/martingales_intro_notes.pdf)
+[Notes for a lecture I gave on Martingales and related processes](files/Probability_and_Stochastics/martingales_intro_notes.pdf)
 
 ## Bayesian Nonparametrics
 
 [Detailed proof of showing that the proportions from the CRP converge in distribution to the GEM distribution](files/NPBayes/NPBayes_hmwk3.pdf)
 
-[Provided a detailed proof showing that the size-biased permutations of the Poisson-Dirichlet distribution is given by the 2 parameter GEM distributions](files/NPBayes/NPBayes_hmwk4.pdf)
+[Another proof showing that the size-biased permutations of the Poisson-Dirichlet distribution is given by the 2 parameter GEM distributions](files/NPBayes/NPBayes_hmwk4.pdf)
 
 ## Talks and Presentations
 
@@ -26,6 +26,13 @@ Here are some projects that I'm at least somewhat proud of. For now, I'm just ad
 [Sparse Principal Component Analysis](files/Talks_and_Presentations/factor_analysis.pdf)
 
 
+## Modelling
+
+[Spatio - Temporal Analysis of Bird Migration](files/Data_Science/bird_dat.pdf)
+
+[Establishing Baseline Climate Partitions via Clustering](files/Data_Science/780As3.pdf)
+
+[Impacts of Diet Intervention on the Gut Microbiome](files/Data_Science/MicrobiomeGut.pdf)
 
 
 
