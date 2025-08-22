@@ -3,7 +3,7 @@ title: "Projects"
 format: html
 ---
 
-Here are some projects that I'm at least somewhat proud of. For now, I'm just adding projects that were part of my Master's degree at McMaster University.
+Here are some projects that I'm pretty proud of. For now, I'm just adding projects that were part of my Master's degree at McMaster University.
 
 ## Probability Theory and Stochastic Processes
 
