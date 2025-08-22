@@ -60,7 +60,7 @@
     "href": "pages/Interests/readings.html#programming",
     "title": "Readings and Resources",
     "section": "Programming",
-    "text": "Programming\nR for Data Science by Hadley Wickham and Garrett Grolemund\nPython Data Science Handbook\nIntroduction to Computation and Programming Using Python by John V. Guttag"
+    "text": "Programming\nR for Data Science by Hadley Wickham and Garrett Grolemund\nPython Data Science Handbook\nIntroduction to Computation and Programming Using Python by John V. Guttag\nThe R Inferno by Patrick Burns"
   },
   {
     "objectID": "pages/Interests/readings.html#section",
@@ -74,6 +74,41 @@
     "href": "pages/index.html#contact-me",
     "title": "Simranjeet Bilkhu",
     "section": "Contact Me",
-    "text": "Contact Me\nE-mail: bilkhs2@mcmaster.ca"
+    "text": "Contact Me\nE-mail: bilkhs2@mcmaster.ca\nGithub:\nLinkdIn:"
+  },
+  {
+    "objectID": "pages/CV/projects.html",
+    "href": "pages/CV/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are some projects that I’m at least somewhat proud of. For now, I’m just adding projects that were part of my Master’s degree at McMaster University."
+  },
+  {
+    "objectID": "pages/CV/projects.html#bayesian-nonparametrics",
+    "href": "pages/CV/projects.html#bayesian-nonparametrics",
+    "title": "Projects",
+    "section": "Bayesian Nonparametrics",
+    "text": "Bayesian Nonparametrics\nDetailed proof of showing that the proportions from the CRP converge in distribution to the GEM distribution\nProvided a detailed proof showing that the size-biased permutations of the Poisson-Dirichlet distribution is given by the 2 parameter GEM distributions"
+  },
+  {
+    "objectID": "pages/CV/projects.html#probability-theory-and-stochastic-processes",
+    "href": "pages/CV/projects.html#probability-theory-and-stochastic-processes",
+    "title": "Projects",
+    "section": "Probability Theory and Stochastic Processes",
+    "text": "Probability Theory and Stochastic Processes\nPresentation on Martingales and related processes"
+  },
+  {
+    "objectID": "pages/CV/projects.html#talks-and-presentations",
+    "href": "pages/CV/projects.html#talks-and-presentations",
+    "title": "Projects",
+    "section": "Talks and Presentations",
+    "text": "Talks and Presentations"
+  },
+  {
+    "objectID": "pages/CV/projects.html#data-science",
+    "href": "pages/CV/projects.html#data-science",
+    "title": "Projects",
+    "section": "Data Science",
+    "text": "Data Science"
   }
 ]

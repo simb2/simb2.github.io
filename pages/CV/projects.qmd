@@ -1,4 +1,27 @@
 ---
-title: "projects"
+title: "Projects"
 format: html
 ---
+
+Here are some projects that I'm at least somewhat proud of. For now, I'm just adding projects that were part of my Master's degree at McMaster University. 
+
+## Probability Theory and Stochastic Processes
+
+[Presentation on Martingales and related processes](files/Probability_and_Stochastics/martingales_intro_notes.pdf)
+
+## Bayesian Nonparametrics
+
+[Detailed proof of showing that the proportions from the CRP converge in distribution to the GEM distribution](files/NPBayes/NPBayes_hmwk3.pdf)
+
+[Provided a detailed proof showing that the size-biased permutations of the Poisson-Dirichlet distribution is given by the 2 parameter GEM distributions](files/NPBayes/NPBayes_hmwk4.pdf)
+
+
+## Talks and Presentations
+
+
+## Data Science
+
+
+
+
+
