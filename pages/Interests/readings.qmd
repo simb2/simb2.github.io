@@ -20,7 +20,7 @@ Linear Algebra and it's Applications by Gilbert Strang\
 
 ### Probability Theory
 
-*Knowing the Odds: An Introduction to Probability by John B. Walsh\
+Knowing the Odds: An Introduction to Probability by John B. Walsh\
 Probability: Theory and Examples by Rick Durrettc\
 Probability and Stochastics by Erhan Cinlar\
 
@@ -40,6 +40,6 @@ Probabilistic Machine Learning: An Introduction by Kevin Patrick Murphy\
 R for Data Science by Hadley Wickham and Garrett Grolemund\
 Python Data Science Handbook\
 Introduction to Computation and Programming Using Python by John V. Guttag\
-The R Inferno by Patrick Burns\
+The R Inferno by Patrick Burns
 
 

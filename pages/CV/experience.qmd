@@ -5,27 +5,34 @@ format: html
 
 ## Education
 
-### McMaster University - Master's in Statistics
+---
+
+#### McMaster University — Master's in Statistics
 
 *McMaster University* \| *Sept 2024 (Ongoing)*\
-- CGPA: 11.87/12
+**CGPA:** 11.87/12
 
-### University of Toronto — H.B.Sc.
+#### University of Toronto — H.B.Sc. in Applied Statistics 
 
-**Specialization in Applied Statistics** \| *Minor in Mathematics*\
+*Minor in Mathematics*\
 *Sept 2018 – Apr 2024*\
-- CGPA (final 2 yrs - 10.5 out of 20.5 total credits): 3.76/4.00
+**CGPA:** 11.87 / 12   (final 2 yrs - 10.5 out of 20.5 total credits): 3.76/4.00
 
-### Teaching Assistant – Statistical Methods with Applications
+---
+
+## Work Experience
+
+#### Teaching Assistant — Statistical Methods with Applications
+
+*McMaster University* \| *Jan 2025 – April 2025*\
+ - Led exam review sessions and explained statistical concepts to students\
+ - Guided practice problem walkthroughs and clarified solutions\
+ - Provided one-on-one assistance during office hours
+ 
+#### Teaching Assistant — Linear Regression Models Using SAS
 
 *McMaster University* \| *Sept 2024 – Dec 2024*\
-- Led exam review sessions and explained statistical concepts to students\
-- Guided practice problem walkthroughs and clarified solutions\
-- Provided one-on-one assistance during office hours
-
-### Data Analyst – Climate Data Clustering Project
-
-*Independent Project* \| *May 2024 – Aug 2024*\
-- Processed raster climate data over time\
-- Compared K-Means and Agglomerative clustering using silhouette analysis\
-- Applied PCA for dimensionality reduction and preprocessing
+ - Delivered lab tutorials and guided students through hands-on examples using SAS for linear regression analysis\
+ - Oversaw and evaluated online course discussions, providing constructive feedback on interpretations, and best practices for report writing\
+ - Assisted in grading assignments and projects\
+ - Provided technical support for students struggling with coding issues
