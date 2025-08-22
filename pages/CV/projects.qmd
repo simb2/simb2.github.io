@@ -3,7 +3,7 @@ title: "Projects"
 format: html
 ---
 
-Here are some projects that I'm at least somewhat proud of. For now, I'm just adding projects that were part of my Master's degree at McMaster University. 
+Here are some projects that I'm at least somewhat proud of. For now, I'm just adding projects that were part of my Master's degree at McMaster University.
 
 ## Probability Theory and Stochastic Processes
 
@@ -25,15 +25,12 @@ Here are some projects that I'm at least somewhat proud of. For now, I'm just ad
 
 [Sparse Principal Component Analysis](files/Talks_and_Presentations/factor_analysis.pdf)
 
-
 ## Modelling
 
-[Spatio - Temporal Analysis of Bird Migration](files/Data_Science/bird_dat.pdf)
+[Expansion of Canadian Agriculutre and the Relationship with Wetlands in Boreal Shield Provinces](files/Data_Science/780As1.pdf)
 
 [Establishing Baseline Climate Partitions via Clustering](files/Data_Science/780As3.pdf)
 
+[Spatio - Temporal Analysis of Bird Migration](files/Data_Science/bird_dat.pdf)
+
 [Impacts of Diet Intervention on the Gut Microbiome](files/Data_Science/MicrobiomeGut.pdf)
-
-
-
-
