@@ -12,7 +12,7 @@ website:
       - href: pages/CV/experience.qmd
         text: "Education & Experience"
       - href: pages/CV/projects.qmd
-        text: "Graduate Projects"
+        text: "Projects"
       - href: pages/Interests/readings.qmd
         text: "Readings"
       #- href: pages/Interests/other_interests.qmd
