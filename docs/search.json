@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Simranjeet Bilkhu",
     "section": "",
-    "text": "Behold your luck! It seems that you have managed to find your way to my little site. My intention for is to allow strangers to know me a little better, and for potential academic supervisors or employers to assess whether my skills and interests align with what they are seeking.\n\n\n\nA picture of me"
+    "text": "Behold your luck! It seems that you have managed to find your way to my little site. My intention for this is to allow strangers to know me a little better, and for potential academic supervisors or employers to assess whether my skills and interests align with what they are seeking.\n\n\n\nA picture of me"
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Simranjeet Bilkhu",
     "section": "",
-    "text": "Behold your luck! It seems that you have managed to find your way to my little site. My intention for is to allow strangers to know me a little better, and for potential academic supervisors or employers to assess whether my skills and interests align with what they are seeking.\n\n\n\nA picture of me"
+    "text": "Behold your luck! It seems that you have managed to find your way to my little site. My intention for this is to allow strangers to know me a little better, and for potential academic supervisors or employers to assess whether my skills and interests align with what they are seeking.\n\n\n\nA picture of me"
   },
   {
     "objectID": "index.html#about-me",
@@ -84,6 +84,13 @@
     "text": "Talks and Presentations\nHamiltonian Monte Carlo\nPresentation on Reversiable Jump MCMC\nSparse Bayesian Factor Analysis when the Number of Factors is Unknown\nSparse Principal Component Analysis"
   },
   {
+    "objectID": "pages/CV/projects.html#modelling",
+    "href": "pages/CV/projects.html#modelling",
+    "title": "Projects",
+    "section": "Modelling",
+    "text": "Modelling\nExpansion of Canadian Agriculutre and the Relationship with Wetlands in Boreal Shield Provinces\nEstablishing Baseline Climate Partitions via Clustering\nSpatio - Temporal Analysis of Bird Migration\nImpacts of Diet Intervention on the Gut Microbiome"
+  },
+  {
     "objectID": "pages/CV/experience.html",
     "href": "pages/CV/experience.html",
     "title": "Education & Relevant Work Experience",
@@ -103,12 +110,5 @@
     "title": "Education & Relevant Work Experience",
     "section": "Work Experience",
     "text": "Work Experience\n\nTeaching Assistant — Statistical Methods with Applications\nMcMaster University | Jan 2025 – April 2025\n- Led exam review sessions and explained statistical concepts to students\n- Guided practice problem walkthroughs and clarified solutions\n- Provided one-on-one assistance during office hours\n\n\nTeaching Assistant — Linear Regression Models Using SAS\nMcMaster University | Sept 2024 – Dec 2024\n- Delivered lab tutorials and guided students through hands-on examples using SAS for linear regression analysis\n- Oversaw and evaluated online course discussions, providing constructive feedback on interpretations, and best practices for report writing\n- Assisted in grading assignments and projects\n- Provided technical support for students struggling with coding issues"
-  },
-  {
-    "objectID": "pages/CV/projects.html#modelling",
-    "href": "pages/CV/projects.html#modelling",
-    "title": "Projects",
-    "section": "Modelling",
-    "text": "Modelling\nExpansion of Canadian Agriculutre and the Relationship with Wetlands in Boreal Shield Provinces\nEstablishing Baseline Climate Partitions via Clustering\nSpatio - Temporal Analysis of Bird Migration\nImpacts of Diet Intervention on the Gut Microbiome"
   }
 ]
