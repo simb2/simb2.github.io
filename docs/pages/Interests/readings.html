@@ -92,6 +92,18 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../../pages/index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../pages/CV/experience.html"> 
+<span class="menu-text">Education &amp; Experience</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../pages/CV/projects.html"> 
+<span class="menu-text">Graduate Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../../pages/Interests/readings.html" aria-current="page"> 
+<span class="menu-text">Readings</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -281,7 +293,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/simb2\.github\.io");
+      var filterRegex = new RegExp("https:\/\/simb2\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
