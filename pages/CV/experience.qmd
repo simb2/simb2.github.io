@@ -5,34 +5,34 @@ format: html
 
 ## Education
 
----
+------------------------------------------------------------------------
 
 #### McMaster University — Master's in Statistics
 
 *McMaster University* \| *Sept 2024 (Ongoing)*\
 **CGPA:** 11.87/12
 
-#### University of Toronto — H.B.Sc. in Applied Statistics 
+#### University of Toronto — H.B.Sc. in Applied Statistics
 
 *Minor in Mathematics*\
 *Sept 2018 – Apr 2024*\
-**CGPA:** 11.87 / 12   (final 2 yrs - 10.5 out of 20.5 total credits): 3.76/4.00
+**CGPA** (final 2 yrs - 10.5 out of 20.5 total credits): 3.76/4.00
 
----
+------------------------------------------------------------------------
 
 ## Work Experience
 
 #### Teaching Assistant — Statistical Methods with Applications
 
 *McMaster University* \| *Jan 2025 – April 2025*\
- - Led exam review sessions and explained statistical concepts to students\
- - Guided practice problem walkthroughs and clarified solutions\
- - Provided one-on-one assistance during office hours
- 
+- Led exam review sessions and explained statistical concepts to students\
+- Guided practice problem walkthroughs and clarified solutions\
+- Provided one-on-one assistance during office hours
+
 #### Teaching Assistant — Linear Regression Models Using SAS
 
 *McMaster University* \| *Sept 2024 – Dec 2024*\
- - Delivered lab tutorials and guided students through hands-on examples using SAS for linear regression analysis\
- - Oversaw and evaluated online course discussions, providing constructive feedback on interpretations, and best practices for report writing\
- - Assisted in grading assignments and projects\
- - Provided technical support for students struggling with coding issues
+- Delivered lab tutorials and guided students through hands-on examples using SAS for linear regression analysis\
+- Oversaw and evaluated online course discussions, providing constructive feedback on interpretations, and best practices for report writing\
+- Assisted in grading assignments and projects\
+- Provided technical support for students struggling with coding issues
