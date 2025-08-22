@@ -15,8 +15,8 @@ website:
         text: "Graduate Projects"
       - href: pages/Interests/readings.qmd
         text: "Readings"
-      - href: pages/Interests/other_interests.qmd
-        text: "Other Hobbies"
+      #- href: pages/Interests/other_interests.qmd
+      #  text: "Other Hobbies"
 format:
   html:
     theme: lux
