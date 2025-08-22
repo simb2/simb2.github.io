@@ -18,6 +18,13 @@ Here are some projects that I'm at least somewhat proud of. For now, I'm just ad
 
 ## Talks and Presentations
 
+[Hamiltonian Monte Carlo](files/Talks_and_Presentations/HMC_Presentation.pdf)
+
+[Presentation on Reversiable Jump MCMC](files/Talks_and_Presentations/RJMCMC.pdf)
+
+[Sparse Bayesian Factor Analysis when the Number of Factors is Unknown](files/Talks_and_Presentations/SBCA.pdf)
+
+[Sparse Principal Component Analysis](files/Talks_and_Presentations/factor_analysis.pdf)
 
 ## Data Science
 
