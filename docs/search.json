@@ -26,5 +26,96 @@
     "title": "Simranjeet Bilkhu",
     "section": "Contact Me",
     "text": "Contact Me\nE-mail: bilkhs2@mcmaster.ca"
+  },
+  {
+    "objectID": "pages/CV/experience.html",
+    "href": "pages/CV/experience.html",
+    "title": "Education & Relevant Work Experience",
+    "section": "",
+    "text": "McMaster University | Sept 2024 (Ongoing)\nCGPA: 11.87/12\n\n\n\nMinor in Mathematics\nSept 2018 – Apr 2024\nCGPA (final 2 yrs - 10.5 out of 20.5 total credits): 3.76/4.00"
+  },
+  {
+    "objectID": "pages/CV/experience.html#education",
+    "href": "pages/CV/experience.html#education",
+    "title": "Education & Relevant Work Experience",
+    "section": "",
+    "text": "McMaster University | Sept 2024 (Ongoing)\nCGPA: 11.87/12\n\n\n\nMinor in Mathematics\nSept 2018 – Apr 2024\nCGPA (final 2 yrs - 10.5 out of 20.5 total credits): 3.76/4.00"
+  },
+  {
+    "objectID": "pages/CV/experience.html#work-experience",
+    "href": "pages/CV/experience.html#work-experience",
+    "title": "Education & Relevant Work Experience",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nTeaching Assistant — Statistical Methods with Applications\nMcMaster University | Jan 2025 – April 2025\n- Led exam review sessions and explained statistical concepts to students\n- Guided practice problem walkthroughs and clarified solutions\n- Provided one-on-one assistance during office hours\n\n\nTeaching Assistant — Linear Regression Models Using SAS\nMcMaster University | Sept 2024 – Dec 2024\n- Delivered lab tutorials and guided students through hands-on examples using SAS for linear regression analysis\n- Oversaw and evaluated online course discussions, providing constructive feedback on interpretations, and best practices for report writing\n- Assisted in grading assignments and projects\n- Provided technical support for students struggling with coding issues"
+  },
+  {
+    "objectID": "pages/Interests/readings.html",
+    "href": "pages/Interests/readings.html",
+    "title": "Readings and Resources",
+    "section": "",
+    "text": "As stated in my bio, I love learning. I’ve added some of my favourite resources below. Of course, I can only add things I’ve read at least a couple of chapters of. If you disagree with some of my resources or have any suggestions, feel free to contact me."
+  },
+  {
+    "objectID": "pages/Interests/readings.html#math",
+    "href": "pages/Interests/readings.html#math",
+    "title": "Readings and Resources",
+    "section": "Math",
+    "text": "Math\n\nAnalysis\nUnderstanding Analysis by Steven Abbott\nReal Analysis by Royden and Fitzpatrick\nReal Analysis by Stein and Shakarchi\n\n\nLinear Algebra\nLinear Algebra Done Right by Sheldon Axler\nLinear Algebra and it’s Applications by Gilbert Strang\n\n\n\nProbability Theory\nKnowing the Odds: An Introduction to Probability by John B. Walsh\nProbability: Theory and Examples by Rick Durrettc\nProbability and Stochastics by Erhan Cinlar\n\n\n\nOther\nComplex Variables by Steven D. Fisher\nA Walk Through Combinatorics by Miklos Bona"
+  },
+  {
+    "objectID": "pages/Interests/readings.html#statistics",
+    "href": "pages/Interests/readings.html#statistics",
+    "title": "Readings and Resources",
+    "section": "Statistics",
+    "text": "Statistics\nStatistical Inference by Berger and Casella\nBayesian Forecasting and Dynamic Models by Mike West and Jeff Harrison\nAn Introduction to Statistical Learning with Applications in R\nProbabilistic Machine Learning: An Introduction by Kevin Patrick Murphy"
+  },
+  {
+    "objectID": "pages/Interests/readings.html#programming",
+    "href": "pages/Interests/readings.html#programming",
+    "title": "Readings and Resources",
+    "section": "Programming",
+    "text": "Programming\nR for Data Science by Hadley Wickham and Garrett Grolemund\nPython Data Science Handbook\nIntroduction to Computation and Programming Using Python by John V. Guttag\nThe R Inferno by Patrick Burns"
+  },
+  {
+    "objectID": "pages/CV/projects.html",
+    "href": "pages/CV/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are some projects that I’m pretty proud of. For now, I’m just adding projects that were part of my Master’s degree at McMaster University."
+  },
+  {
+    "objectID": "pages/CV/projects.html#papers",
+    "href": "pages/CV/projects.html#papers",
+    "title": "Projects",
+    "section": "Papers",
+    "text": "Papers\nCounter-example of continuity of measure in uncountable unions"
+  },
+  {
+    "objectID": "pages/CV/projects.html#probability-theory-and-stochastic-processes",
+    "href": "pages/CV/projects.html#probability-theory-and-stochastic-processes",
+    "title": "Projects",
+    "section": "Probability Theory and Stochastic Processes",
+    "text": "Probability Theory and Stochastic Processes\nNotes for a lecture I gave on Martingales and related processes"
+  },
+  {
+    "objectID": "pages/CV/projects.html#bayesian-nonparametrics",
+    "href": "pages/CV/projects.html#bayesian-nonparametrics",
+    "title": "Projects",
+    "section": "Bayesian Nonparametrics",
+    "text": "Bayesian Nonparametrics\nDetailed proof of showing that the proportions from the CRP converge in distribution to the GEM distribution\nAnother proof showing that the size-biased permutations of the Poisson-Dirichlet distribution is given by the 2 parameter GEM distributions"
+  },
+  {
+    "objectID": "pages/CV/projects.html#talks-and-presentations",
+    "href": "pages/CV/projects.html#talks-and-presentations",
+    "title": "Projects",
+    "section": "Talks and Presentations",
+    "text": "Talks and Presentations\nHamiltonian Monte Carlo\nPresentation on Reversiable Jump MCMC\nSparse Bayesian Factor Analysis when the Number of Factors is Unknown\nSparse Principal Component Analysis"
+  },
+  {
+    "objectID": "pages/CV/projects.html#modelling",
+    "href": "pages/CV/projects.html#modelling",
+    "title": "Projects",
+    "section": "Modelling",
+    "text": "Modelling\nExpansion of Canadian Agriculutre and the Relationship with Wetlands in Boreal Shield Provinces\nEstablishing Baseline Climate Partitions via Clustering\nSpatio - Temporal Analysis of Bird Migration\nImpacts of Diet Intervention on the Gut Microbiome"
   }
 ]
