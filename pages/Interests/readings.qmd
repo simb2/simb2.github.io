@@ -11,7 +11,7 @@ As stated in my bio, I love learning. I've added some of my favourite resources 
 
 Understanding Analysis by Steven Abbott\
 Real Analysis by Royden and Fitzpatrick\
-Real Analysis by Folland\
+Real Analysis by Stein and Shakarchi
 
 ### Linear Algebra
 

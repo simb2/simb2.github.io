@@ -5,6 +5,10 @@ format: html
 
 Here are some projects that I'm pretty proud of. For now, I'm just adding projects that were part of my Master's degree at McMaster University.
 
+## Papers
+
+[Counter-example of continuity of measure in uncountable unions](https://arxiv.org/pdf/2509.07168)
+
 ## Probability Theory and Stochastic Processes
 
 [Notes for a lecture I gave on Martingales and related processes](files/Probability_and_Stochastics/martingales_intro_notes.pdf)
