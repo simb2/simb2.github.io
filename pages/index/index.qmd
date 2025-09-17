@@ -6,7 +6,7 @@ title: "Simranjeet Bilkhu"
 
 Behold your luck! It seems that you have managed to find your way to my little site. My intention for this is to allow strangers to know me a little better, and for potential academic supervisors or employers to assess whether my skills and interests align with what they are seeking.
 
-![A picture of me](images/profile_pic.png){fig-align="right"}
+![A picture of me](../../images/profile_pic.png){fig-align="right"}
 
 ## About Me
 

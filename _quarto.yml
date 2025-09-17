@@ -7,7 +7,7 @@ website:
   site-url: https://simb2.github.io/
   navbar:
     right:
-      - href: index.qmd
+      - href: pages/index/index.qmd
         text: "Home"
       - href: pages/CV/experience.qmd
         text: "Education & Experience"
