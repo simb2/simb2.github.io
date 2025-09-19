@@ -14,7 +14,7 @@ I'm currently in my final few months of my Master's in Statistics at McMaster un
 
 Suppose I was given the process of building a house by myself. Of course, since I don't have the current knowledge on how to build one, my task would be first would be to find a house (preferably abandoned), and start taking it apart.
 
-![Made with ChatGPT 5](images/rebuild_house.png)
+![Made with ChatGPT 5](../../images/rebuild_house.png)
 
 Perhaps being a subject of my own confirmation bias, I hold the opinion that my passion for learning the inner workings of things gives me an edge in this era of generative AI. I seldom allow myself to use something without first understanding how it works.
 
