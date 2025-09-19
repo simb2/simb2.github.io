@@ -31,7 +31,7 @@ Here are some projects that I'm pretty proud of. For now, I'm just adding projec
 
 ## Modelling
 
-[Expansion of Canadian Agriculutre and the Relationship with Wetlands in Boreal Shield Provinces](files/Data_Science/780As1.pdf)
+[Expansion of Canadian Agriculture and the Relationship with Wetlands in Boreal Shield Provinces](files/Data_Science/780As1.pdf)
 
 [Establishing Baseline Climate Partitions via Clustering](files/Data_Science/780As3.pdf)
 
