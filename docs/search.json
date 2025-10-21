@@ -28,27 +28,6 @@
     "text": "Contact Me\nE-mail: bilkhs2@mcmaster.ca"
   },
   {
-    "objectID": "pages/CV/experience.html",
-    "href": "pages/CV/experience.html",
-    "title": "Education & Relevant Work Experience",
-    "section": "",
-    "text": "McMaster University | Sept 2024 (Ongoing)\nCGPA: 11.87/12\n\n\n\nMinor in Mathematics\nSept 2018 – Apr 2024\nCGPA (final 2 yrs - 10.5 out of 20.5 total credits): 3.76/4.00"
-  },
-  {
-    "objectID": "pages/CV/experience.html#education",
-    "href": "pages/CV/experience.html#education",
-    "title": "Education & Relevant Work Experience",
-    "section": "",
-    "text": "McMaster University | Sept 2024 (Ongoing)\nCGPA: 11.87/12\n\n\n\nMinor in Mathematics\nSept 2018 – Apr 2024\nCGPA (final 2 yrs - 10.5 out of 20.5 total credits): 3.76/4.00"
-  },
-  {
-    "objectID": "pages/CV/experience.html#work-experience",
-    "href": "pages/CV/experience.html#work-experience",
-    "title": "Education & Relevant Work Experience",
-    "section": "Work Experience",
-    "text": "Work Experience\n\nTeaching Assistant — Statistical Methods with Applications\nMcMaster University | Jan 2025 – April 2025\n- Led exam review sessions and explained statistical concepts to students\n- Guided practice problem walkthroughs and clarified solutions\n- Provided one-on-one assistance during office hours\n\n\nTeaching Assistant — Linear Regression Models Using SAS\nMcMaster University | Sept 2024 – Dec 2024\n- Delivered lab tutorials and guided students through hands-on examples using SAS for linear regression analysis\n- Oversaw and evaluated online course discussions, providing constructive feedback on interpretations, and best practices for report writing\n- Assisted in grading assignments and projects\n- Provided technical support for students struggling with coding issues"
-  },
-  {
     "objectID": "pages/Interests/readings.html",
     "href": "pages/Interests/readings.html",
     "title": "Readings and Resources",
@@ -117,5 +96,26 @@
     "title": "Projects",
     "section": "Modelling",
     "text": "Modelling\nExpansion of Canadian Agriculture and the Relationship with Wetlands in Boreal Shield Provinces\nEstablishing Baseline Climate Partitions via Clustering\nSpatio - Temporal Analysis of Bird Migration\nImpacts of Diet Intervention on the Gut Microbiome"
+  },
+  {
+    "objectID": "pages/CV/experience.html",
+    "href": "pages/CV/experience.html",
+    "title": "Education & Relevant Work Experience",
+    "section": "",
+    "text": "McMaster University | Sept 2024 (Ongoing)\nCGPA: 11.87/12\n\n\n\nMinor in Mathematics\nSept 2018 – Apr 2024\nCGPA (final 2 yrs - 10.5 out of 20.5 total credits): 3.76/4.00"
+  },
+  {
+    "objectID": "pages/CV/experience.html#education",
+    "href": "pages/CV/experience.html#education",
+    "title": "Education & Relevant Work Experience",
+    "section": "",
+    "text": "McMaster University | Sept 2024 (Ongoing)\nCGPA: 11.87/12\n\n\n\nMinor in Mathematics\nSept 2018 – Apr 2024\nCGPA (final 2 yrs - 10.5 out of 20.5 total credits): 3.76/4.00"
+  },
+  {
+    "objectID": "pages/CV/experience.html#work-experience",
+    "href": "pages/CV/experience.html#work-experience",
+    "title": "Education & Relevant Work Experience",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nTeaching Assistant — Statistical Methods with Applications\nMcMaster University | Jan 2025 – April 2025\n- Led exam review sessions and explained statistical concepts to students\n- Guided practice problem walkthroughs and clarified solutions\n- Provided one-on-one assistance during office hours\n\n\nTeaching Assistant — Linear Regression Models Using SAS\nMcMaster University | Sept 2024 – Dec 2024\n- Delivered lab tutorials and guided students through hands-on examples using SAS for linear regression analysis\n- Oversaw and evaluated online course discussions, providing constructive feedback on interpretations, and best practices for report writing\n- Assisted in grading assignments and projects\n- Provided technical support for students struggling with coding issues"
   }
 ]
