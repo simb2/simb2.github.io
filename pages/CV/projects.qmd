@@ -9,16 +9,6 @@ Here are some projects that I'm pretty proud of. For now, I'm just adding projec
 
 [Counter-example of continuity of measure in uncountable unions](https://arxiv.org/pdf/2509.07168)
 
-## Probability Theory and Stochastic Processes
-
-[Notes for a lecture I gave on Martingales and related processes](files/Probability_and_Stochastics/martingales_intro_notes.pdf)
-
-## Bayesian Nonparametrics
-
-[Detailed proof of showing that the proportions from the CRP converge in distribution to the GEM distribution](files/NPBayes/NPBayes_hmwk3.pdf)
-
-[Another proof showing that the size-biased permutations of the Poisson-Dirichlet distribution is given by the 2 parameter GEM distributions](files/NPBayes/NPBayes_hmwk4.pdf)
-
 ## Talks and Presentations
 
 [Hamiltonian Monte Carlo](files/Talks_and_Presentations/HMC_Presentation.pdf)
@@ -38,3 +28,13 @@ Here are some projects that I'm pretty proud of. For now, I'm just adding projec
 [Spatio - Temporal Analysis of Bird Migration](files/Data_Science/bird_dat.pdf)
 
 [Impacts of Diet Intervention on the Gut Microbiome](files/Data_Science/MicrobiomeGut.pdf)
+
+## Probability Theory and Stochastic Processes
+
+[Notes for a lecture I gave on Martingales and related processes](files/Probability_and_Stochastics/martingales_intro_notes.pdf)
+
+## Bayesian Nonparametrics
+
+[Detailed proof of showing that the proportions from the CRP converge in distribution to the GEM distribution](files/NPBayes/NPBayes_hmwk3.pdf)
+
+[Another proof showing that the size-biased permutations of the Poisson-Dirichlet distribution is given by the 2 parameter GEM distributions](files/NPBayes/NPBayes_hmwk4.pdf)
