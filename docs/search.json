@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "pages/CV/experience.html",
+    "href": "pages/CV/experience.html",
+    "title": "Education & Relevant Work Experience",
+    "section": "",
+    "text": "McMaster University | Sept 2024 (Ongoing)\nCGPA: 11.87/12\n\n\n\nMinor in Mathematics\nSept 2018 – Apr 2024\nCGPA (final 2 yrs - 10.5 out of 20.5 total credits): 3.76/4.00"
+  },
+  {
+    "objectID": "pages/CV/experience.html#education",
+    "href": "pages/CV/experience.html#education",
+    "title": "Education & Relevant Work Experience",
+    "section": "",
+    "text": "McMaster University | Sept 2024 (Ongoing)\nCGPA: 11.87/12\n\n\n\nMinor in Mathematics\nSept 2018 – Apr 2024\nCGPA (final 2 yrs - 10.5 out of 20.5 total credits): 3.76/4.00"
+  },
+  {
+    "objectID": "pages/CV/experience.html#work-experience",
+    "href": "pages/CV/experience.html#work-experience",
+    "title": "Education & Relevant Work Experience",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nTeaching Assistant — Intermediate Probability Theory\nMcMaster University | September 2025 – December 2025\n- Graded at assessments (tests, assignments, and exams) - Provided additional support 4 days/week at the Math Help Center to assist first-year students with topics including calculus, proofs, and linear algebra\n\n\nTeaching Assistant — Statistical Methods with Applications\nMcMaster University | January 2025 – April 2025\n- Led exam review sessions and explained statistical concepts to students\n- Guided practice problem walkthroughs and clarified solutions\n- Provided one-on-one assistance during office hours\n\n\nTeaching Assistant — Linear Regression Models Using SAS\nMcMaster University | September 2024 – December 2024\n- Delivered lab tutorials and guided students through hands-on examples using SAS for linear regression analysis\n- Oversaw and evaluated online course discussions, providing constructive feedback on interpretations, and best practices for report writing\n- Assisted in grading assignments and projects\n- Provided technical support for students struggling with coding issues\n\n\nStudent Intern — IT & Data Operations\nSodexo | May 2020 – Aug 2022\n- Served as Technical SME for transitioning cloud backup solutions, resulting in operational savings over $50,000\n- Led tracking and replacement of point-of-sale terminals Canada-wide\n- Analyzed telecom contract cost data to identify opportunities for reducing operational expenses\n- Managed data backup project for Canadian employees\n- Oversaw IT equipment asset management, improving sustainability efforts and enabling charitable contributions to the Stop Hunger Foundation\n- Provided field and help desk support\n- Applied data visualization skills to produce project reports for leadership"
+  },
+  {
     "objectID": "pages/index/about.html",
     "href": "pages/index/about.html",
     "title": "Simranjeet Bilkhu",
@@ -26,34 +47,6 @@
     "title": "Simranjeet Bilkhu",
     "section": "Contact Me",
     "text": "Contact Me\nE-mail: bilkhs2@mcmaster.ca"
-  },
-  {
-    "objectID": "pages/Interests/readings.html",
-    "href": "pages/Interests/readings.html",
-    "title": "Readings and Resources",
-    "section": "",
-    "text": "As stated in my bio, I love learning. I’ve added some of my favourite resources below. If you disagree with some of my resources or have any suggestions, feel free to contact me."
-  },
-  {
-    "objectID": "pages/Interests/readings.html#statistics",
-    "href": "pages/Interests/readings.html#statistics",
-    "title": "Readings and Resources",
-    "section": "Statistics",
-    "text": "Statistics\nStatistical Inference by Berger and Casella\nBayesian Forecasting and Dynamic Models by Mike West and Jeff Harrison\nAn Introduction to Statistical Learning with Applications in R\nProbabilistic Machine Learning: An Introduction by Kevin Patrick Murphy\n(Paper) Bayesian Workflow by Gelman et. al\nRegression Modeling Strategies by Frank Harrell Jr."
-  },
-  {
-    "objectID": "pages/Interests/readings.html#programming",
-    "href": "pages/Interests/readings.html#programming",
-    "title": "Readings and Resources",
-    "section": "Programming",
-    "text": "Programming\nAdvanced R by Hadley Wickham\nThe R Inferno by Patrick Burns\nR for Data Science by Hadley Wickham and Garrett Grolemund\nPython Data Science Handbook\nIntroduction to Computation and Programming Using Python by John V. Guttag"
-  },
-  {
-    "objectID": "pages/Interests/readings.html#math",
-    "href": "pages/Interests/readings.html#math",
-    "title": "Readings and Resources",
-    "section": "Math",
-    "text": "Math\n\nAnalysis\nUnderstanding Analysis by Steven Abbott\nReal Analysis by Royden and Fitzpatrick\nReal Analysis by Stein and Shakarchi\n\n\nLinear Algebra\nLinear Algebra Done Right by Sheldon Axler\nLinear Algebra and it’s Applications by Gilbert Strang\n\n\nProbability Theory\nKnowing the Odds: An Introduction to Probability by John B. Walsh\nProbability: Theory and Examples by Rick Durrettc\nProbability and Stochastics by Erhan Cinlar\n\n\nOther\nComplex Variables by Steven D. Fisher\nA Walk Through Combinatorics by Miklos Bona"
   },
   {
     "objectID": "pages/CV/projects.html",
@@ -98,24 +91,31 @@
     "text": "Bayesian Nonparametrics\nDetailed proof of showing that the proportions from the CRP converge in distribution to the GEM distribution\nAnother proof showing that the size-biased permutations of the Poisson-Dirichlet distribution is given by the 2 parameter GEM distributions"
   },
   {
-    "objectID": "pages/CV/experience.html",
-    "href": "pages/CV/experience.html",
-    "title": "Education & Relevant Work Experience",
+    "objectID": "pages/Interests/readings.html",
+    "href": "pages/Interests/readings.html",
+    "title": "Readings and Resources",
     "section": "",
-    "text": "McMaster University | Sept 2024 (Ongoing)\nCGPA: 11.87/12\n\n\n\nMinor in Mathematics\nSept 2018 – Apr 2024\nCGPA (final 2 yrs - 10.5 out of 20.5 total credits): 3.76/4.00"
+    "text": "As stated in my bio, I love learning. I’ve added some of my favourite resources below. If you disagree with some of my resources or have any suggestions, feel free to contact me."
   },
   {
-    "objectID": "pages/CV/experience.html#education",
-    "href": "pages/CV/experience.html#education",
-    "title": "Education & Relevant Work Experience",
-    "section": "",
-    "text": "McMaster University | Sept 2024 (Ongoing)\nCGPA: 11.87/12\n\n\n\nMinor in Mathematics\nSept 2018 – Apr 2024\nCGPA (final 2 yrs - 10.5 out of 20.5 total credits): 3.76/4.00"
+    "objectID": "pages/Interests/readings.html#statistics",
+    "href": "pages/Interests/readings.html#statistics",
+    "title": "Readings and Resources",
+    "section": "Statistics",
+    "text": "Statistics\nStatistical Inference by Berger and Casella\nBayesian Forecasting and Dynamic Models by Mike West and Jeff Harrison\nAn Introduction to Statistical Learning with Applications in R\nProbabilistic Machine Learning: An Introduction by Kevin Patrick Murphy\n(Paper) Bayesian Workflow by Gelman et. al\nRegression Modeling Strategies by Frank Harrell Jr."
   },
   {
-    "objectID": "pages/CV/experience.html#work-experience",
-    "href": "pages/CV/experience.html#work-experience",
-    "title": "Education & Relevant Work Experience",
-    "section": "Work Experience",
-    "text": "Work Experience\n\nTeaching Assistant — Statistical Methods with Applications\nMcMaster University | Jan 2025 – April 2025\n- Led exam review sessions and explained statistical concepts to students\n- Guided practice problem walkthroughs and clarified solutions\n- Provided one-on-one assistance during office hours\n\n\nTeaching Assistant — Linear Regression Models Using SAS\nMcMaster University | Sept 2024 – Dec 2024\n- Delivered lab tutorials and guided students through hands-on examples using SAS for linear regression analysis\n- Oversaw and evaluated online course discussions, providing constructive feedback on interpretations, and best practices for report writing\n- Assisted in grading assignments and projects\n- Provided technical support for students struggling with coding issues"
+    "objectID": "pages/Interests/readings.html#programming",
+    "href": "pages/Interests/readings.html#programming",
+    "title": "Readings and Resources",
+    "section": "Programming",
+    "text": "Programming\nAdvanced R by Hadley Wickham\nThe R Inferno by Patrick Burns\nR for Data Science by Hadley Wickham and Garrett Grolemund\nPython Data Science Handbook\nIntroduction to Computation and Programming Using Python by John V. Guttag"
+  },
+  {
+    "objectID": "pages/Interests/readings.html#math",
+    "href": "pages/Interests/readings.html#math",
+    "title": "Readings and Resources",
+    "section": "Math",
+    "text": "Math\n\nAnalysis\nUnderstanding Analysis by Steven Abbott\nReal Analysis by Royden and Fitzpatrick\nReal Analysis by Stein and Shakarchi\n\n\nLinear Algebra\nLinear Algebra Done Right by Sheldon Axler\nLinear Algebra and it’s Applications by Gilbert Strang\n\n\nProbability Theory\nKnowing the Odds: An Introduction to Probability by John B. Walsh\nProbability: Theory and Examples by Rick Durrettc\nProbability and Stochastics by Erhan Cinlar\n\n\nOther\nComplex Variables by Steven D. Fisher\nA Walk Through Combinatorics by Miklos Bona"
   }
 ]

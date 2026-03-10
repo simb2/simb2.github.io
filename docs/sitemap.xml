@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://simb2.github.io/pages/CV/experience.html</loc>
+    <lastmod>2026-03-10T13:41:44.815Z</lastmod>
+  </url>
+  <url>
     <loc>https://simb2.github.io/pages/index/about.html</loc>
     <lastmod>2026-03-09T20:16:58.305Z</lastmod>
   </url>
   <url>
-    <loc>https://simb2.github.io/pages/Interests/readings.html</loc>
-    <lastmod>2026-03-09T20:10:48.945Z</lastmod>
+    <loc>https://simb2.github.io/pages/Interests/other_interests.html</loc>
+    <lastmod>2025-08-07T22:04:00.737Z</lastmod>
   </url>
   <url>
     <loc>https://simb2.github.io/pages/CV/projects.html</loc>
     <lastmod>2026-03-09T20:03:07.517Z</lastmod>
   </url>
   <url>
-    <loc>https://simb2.github.io/pages/CV/experience.html</loc>
-    <lastmod>2025-08-22T22:24:14.669Z</lastmod>
-  </url>
-  <url>
-    <loc>https://simb2.github.io/pages/Interests/other_interests.html</loc>
-    <lastmod>2025-08-07T22:04:00.737Z</lastmod>
+    <loc>https://simb2.github.io/pages/Interests/readings.html</loc>
+    <lastmod>2026-03-09T20:10:48.945Z</lastmod>
   </url>
 </urlset>
