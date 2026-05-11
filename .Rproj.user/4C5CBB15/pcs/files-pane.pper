@@ -1,6 +1,10 @@
 {
-    "path": "~/Documents/Projects/PersonalSites/portfolio/simb2.github.io/simb2.github.io/pages/index",
+    "path": "~/Documents/Projects/PersonalSites/portfolio/simb2.github.io/simb2.github.io/docs",
     "sortOrder": [
+        {
+            "columnIndex": 4,
+            "ascending": false
+        },
         {
             "columnIndex": 2,
             "ascending": false

@@ -3,54 +3,31 @@ title: "Education & Relevant Work Experience"
 format: html
 ---
 
+## Resume & CV
+
+[Resume](files/Industry/Resume%20(May%202026).pdf)\
+[CV](files/Industry/CV%20(May%202026).pdf)
+
 ## Education
-
-------------------------------------------------------------------------
-
 #### McMaster University — Master's in Statistics
-
-*McMaster University* \| *Sept 2024 (Ongoing)*\
-**CGPA:** 11.87/12
+*McMaster University* | *Sept 2024 - April 2026*\
+**CGPA:** 11.86/12
 
 #### University of Toronto — H.B.Sc. in Applied Statistics
-
 *Minor in Mathematics*\
 *Sept 2018 – Apr 2024*\
-**CGPA** (final 2 yrs - 10.5 out of 20.5 total credits): 3.76/4.00
-
-------------------------------------------------------------------------
+**CGPA** (final 2 yrs): 3.76/4.00
 
 ## Work Experience
 
-#### Teaching Assistant — Intermediate Probability Theory
+#### Research Assistant
+*McMaster University | May 2026 (Ongoing)*
 
-*McMaster University* \| *September 2025 – December 2025*\
-- Graded at assessments (tests, assignments, and exams)
-- Provided additional support 4 days/week at the Math Help Center to assist first-year students with topics including calculus, proofs,
-and linear algebra
 
-#### Teaching Assistant — Statistical Methods with Applications
-
-*McMaster University* \| *January 2025 – April 2025*\
-- Led exam review sessions and explained statistical concepts to students\
-- Guided practice problem walkthroughs and clarified solutions\
-- Provided one-on-one assistance during office hours
-
-#### Teaching Assistant — Linear Regression Models Using SAS
-
-*McMaster University* \| *September 2024 – December 2024*\
-- Delivered lab tutorials and guided students through hands-on examples using SAS for linear regression analysis\
-- Oversaw and evaluated online course discussions, providing constructive feedback on interpretations, and best practices for report writing\
-- Assisted in grading assignments and projects\
-- Provided technical support for students struggling with coding issues
+#### Teaching Assistant — Statistical Methods, Linear Regression Using SAS, Intermediate Probability Theory
+*McMaster University* | *September 2024 – December 2025*\
+- Conducted live coding sessions in SAS. Graded data analysis reports and provided feedback. Delivered tutorials and office hours for two undergraduate statistics courses; graded 500+ assessments and supported first-year students at the Math Help Centre 4 days/week.
 
 #### Student Intern — IT & Data Operations
-*Sodexo* \| *May 2020 – Aug 2022*\
-- Served as Technical SME for transitioning cloud backup solutions, resulting in operational savings over $50,000\
-- Led tracking and replacement of point-of-sale terminals Canada-wide\
-- Analyzed telecom contract cost data to identify opportunities for reducing operational expenses\
-- Managed data backup project for Canadian employees\
-- Oversaw IT equipment asset management, improving sustainability efforts and enabling charitable contributions to the Stop Hunger Foundation\
-- Provided field and help desk support\
-- Applied data visualization skills to produce project reports for leadership\
-
+*Sodexo Canada* | *March 2020 – August 2022*\
+- Analyzed telecom contract and operational cost data to identify savings opportunities, contributing to over $50,000 in reductions; built dashboards in Smartsheet to visualize project progress and present findings to leadership; managed structured data tracking across Canada-wide hardware deployments and asset management initiatives.
