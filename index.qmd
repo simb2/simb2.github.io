@@ -27,7 +27,7 @@ about:
 ::: {#about-me}
 ## Welcome!
 
-Behold your luck! It seems that you have managed to find your way to my little site. I'm a statistician applying to PhD programs, and this is where you can get to know me a little better.
+Behold your luck! It seems that you have managed to find your way to my little site. My intention is to let strangers get to know me a little better.
 
 ## What I've Done
 
@@ -39,9 +39,9 @@ Behold your luck! It seems that you have managed to find your way to my little s
 
 More details are on my [Education & Experience](pages/CV/experience.qmd) and [Projects](pages/CV/projects.qmd) pages.
 
-## Interests and Goals
+## What I'm Interested In
 
-I am drawn to ideas in applied probability such as those used in computational statistics and Bayesian nonparametrics. I hope to learn new concepts, develop my own, and encounter many more during a PhD. Afterwards, I plan to pursue a faculty career where I can continue research in applied probability and share that knowledge through teaching.
+I'm drawn to ideas in applied probability, such as those used in computational statistics and Bayesian nonparametrics, and I hope to encounter many more.
 
 ## Contact Me
 

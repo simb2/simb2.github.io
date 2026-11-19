@@ -11,7 +11,7 @@
     "href": "pages/CV/experience.html#research-interests",
     "title": "Education & Experience",
     "section": "Research Interests",
-    "text": "Research Interests\nI am drawn to ideas in applied probability such as those used in computational statistics and Bayesian nonparametrics. I hope to learn new concepts, develop my own, and encounter many more during a PhD."
+    "text": "Research Interests\nI’m drawn to ideas in applied probability, such as those used in computational statistics and Bayesian nonparametrics, and I hope to encounter many more."
   },
   {
     "objectID": "pages/CV/experience.html#papers",
@@ -39,14 +39,14 @@
     "href": "index.html",
     "title": "Simranjeet Bilkhu",
     "section": "",
-    "text": "Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     CV\n  \n\n  \n  \n\n\nBehold your luck! It seems that you have managed to find your way to my little site. I’m a statistician applying to PhD programs, and this is where you can get to know me a little better.\n\n\n\n\nMaster’s in Statistics, McMaster University (2026), supervised by Dr. Pratheepa Jeganathan. My thesis studied how shrinkage priors and identification constraints interact in Bayesian factor models. I presented it at the 2026 SSC Annual Meeting, and a paper is in preparation for Computational Statistics and Data Analysis.\nFirst paper, Counterexample to Continuity of Measure in Uncountable Unions, with Dr. Noah Forman, accepted in Examples and Counterexamples.\nStudent lectures: as a student in a graduate stochastic processes course where students delivered the lectures, I prepared and gave a set of lectures on martingales.\nTeaching assistant for three statistics courses at McMaster.\nNow: Risk Analyst at goeasy.\n\nMore details are on my Education & Experience and Projects pages.\n\n\n\nI am drawn to ideas in applied probability such as those used in computational statistics and Bayesian nonparametrics. I hope to learn new concepts, develop my own, and encounter many more during a PhD. Afterwards, I plan to pursue a faculty career where I can continue research in applied probability and share that knowledge through teaching.\n\n\n\nE-mail me at 1simranbilkhu@gmail.com, or find me on GitHub and LinkedIn."
+    "text": "Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     CV\n  \n\n  \n  \n\n\nBehold your luck! It seems that you have managed to find your way to my little site. My intention is to let strangers get to know me a little better.\n\n\n\n\nMaster’s in Statistics, McMaster University (2026), supervised by Dr. Pratheepa Jeganathan. My thesis studied how shrinkage priors and identification constraints interact in Bayesian factor models. I presented it at the 2026 SSC Annual Meeting, and a paper is in preparation for Computational Statistics and Data Analysis.\nFirst paper, Counterexample to Continuity of Measure in Uncountable Unions, with Dr. Noah Forman, accepted in Examples and Counterexamples.\nStudent lectures: as a student in a graduate stochastic processes course where students delivered the lectures, I prepared and gave a set of lectures on martingales.\nTeaching assistant for three statistics courses at McMaster.\nNow: Risk Analyst at goeasy.\n\nMore details are on my Education & Experience and Projects pages.\n\n\n\nI’m drawn to ideas in applied probability, such as those used in computational statistics and Bayesian nonparametrics, and I hope to encounter many more.\n\n\n\nE-mail me at 1simranbilkhu@gmail.com, or find me on GitHub and LinkedIn."
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Simranjeet Bilkhu",
     "section": "",
-    "text": "Behold your luck! It seems that you have managed to find your way to my little site. I’m a statistician applying to PhD programs, and this is where you can get to know me a little better."
+    "text": "Behold your luck! It seems that you have managed to find your way to my little site. My intention is to let strangers get to know me a little better."
   },
   {
     "objectID": "index.html#what-ive-done",
@@ -60,14 +60,7 @@
     "href": "index.html#what-im-interested-in",
     "title": "Simranjeet Bilkhu",
     "section": "",
-    "text": "I am drawn to ideas in applied probability such as those used in computational statistics and Bayesian nonparametrics. I hope to learn new concepts, develop my own, and encounter many more during a PhD."
-  },
-  {
-    "objectID": "index.html#what-i-want-to-do",
-    "href": "index.html#what-i-want-to-do",
-    "title": "Simranjeet Bilkhu",
-    "section": "",
-    "text": "A PhD where I can learn new concepts, develop my own, and share that knowledge with others, followed by a faculty career doing research in applied probability and teaching."
+    "text": "I’m drawn to ideas in applied probability, such as those used in computational statistics and Bayesian nonparametrics, and I hope to encounter many more."
   },
   {
     "objectID": "index.html#contact-me",
@@ -91,6 +84,13 @@
     "text": "Papers\n\n\nMaster’s Thesis · 2026\n\nA Comparative Study of Bayesian Factor Models under PLT and UGLT Identification Constraints\nSupervised by Pratheepa Jeganathan.\n\n\n\nPaper · Examples and Counterexamples\n\nCounterexample to Continuity of Measure in Uncountable Unions\nWith Noah Forman. Also on arXiv."
   },
   {
+    "objectID": "pages/CV/projects.html#probability",
+    "href": "pages/CV/projects.html#probability",
+    "title": "Projects",
+    "section": "Probability",
+    "text": "Probability\n\n\nStudent Lecture · July 2025\n\nMartingales and Related Processes\nNotes for lectures I gave as a student in a graduate stochastic processes course where students delivered the lectures. Covers martingales and their relationships to Markov, Wiener and Poisson processes, with an introduction to stochastic kernels.\n\n\n\nAssignment · Winter 2025\n\nFrom the CRP to the GEM Distribution\nAn assignment for a graduate Bayesian nonparametrics course: a detailed proof that the proportions from the Chinese Restaurant Process converge in distribution to the GEM distribution.\n\n\n\nAssignment · Winter 2025\n\nSize-Biased Permutations of the Poisson–Dirichlet Distribution\nAn assignment for a graduate Bayesian nonparametrics course, showing that the size-biased permutation of the two-parameter Poisson–Dirichlet distribution is the two-parameter GEM distribution."
+  },
+  {
     "objectID": "pages/CV/projects.html#talks-and-presentations",
     "href": "pages/CV/projects.html#talks-and-presentations",
     "title": "Projects",
@@ -103,33 +103,5 @@
     "title": "Projects",
     "section": "Modelling",
     "text": "Modelling\n\n\nData Science · Winter 2025\n\nImpacts of Diet Intervention on the Gut Microbiome\nPCA and model-based clustering of microbiome counts with 1400+ features to compare plant- and animal-based diets.\n\n\n\nData Science · December 2024\n\nSpatio-Temporal Analysis of Bird Migration\nA spatio-temporal mixed model cut test error from 1,377 to 31 compared with ridge-penalised Poisson regression.\n\n\n\nData Science · November 2024\n\nEstablishing Baseline Climate Partitions via Clustering\nK-means and agglomerative clustering of Canadian climate rasters, with the number of clusters chosen by silhouette analysis.\n\n\n\nData Science · September 2024\n\nExpansion of Canadian Agriculture and the Relationship with Wetlands in Boreal Shield Provinces\n66 satellite land-cover maps analysed in R, with a Shiny app to explore provincial trends."
-  },
-  {
-    "objectID": "pages/CV/projects.html#probability-theory-and-stochastic-processes",
-    "href": "pages/CV/projects.html#probability-theory-and-stochastic-processes",
-    "title": "Projects",
-    "section": "Probability Theory and Stochastic Processes",
-    "text": "Probability Theory and Stochastic Processes\n\n\nStudent Lecture · July 2025\n\nMartingales and Related Processes\nNotes for lectures I gave as a student in a graduate stochastic processes course where students delivered the lectures. Covers martingales and their relationships to Markov, Wiener and Poisson processes, with an introduction to stochastic kernels."
-  },
-  {
-    "objectID": "pages/CV/projects.html#bayesian-nonparametrics",
-    "href": "pages/CV/projects.html#bayesian-nonparametrics",
-    "title": "Projects",
-    "section": "Bayesian Nonparametrics",
-    "text": "Bayesian Nonparametrics\n\n\nProof · Winter 2025\n\nFrom the CRP to the GEM Distribution\nA detailed proof that the proportions from the Chinese Restaurant Process converge in distribution to the GEM distribution.\n\n\n\nProof · Winter 2025\n\nSize-Biased Permutations of the Poisson–Dirichlet Distribution\nShowing that the size-biased permutation of the two-parameter Poisson–Dirichlet distribution is the two-parameter GEM distribution."
-  },
-  {
-    "objectID": "pages/CV/projects.html#probability",
-    "href": "pages/CV/projects.html#probability",
-    "title": "Projects",
-    "section": "Probability",
-    "text": "Probability\n\n\nStudent Lecture · July 2025\n\nMartingales and Related Processes\nNotes for lectures I gave as a student in a graduate stochastic processes course where students delivered the lectures. Covers martingales and their relationships to Markov, Wiener and Poisson processes, with an introduction to stochastic kernels.\n\n\n\nAssignment · Winter 2025\n\nFrom the CRP to the GEM Distribution\nAn assignment for a graduate Bayesian nonparametrics course: a detailed proof that the proportions from the Chinese Restaurant Process converge in distribution to the GEM distribution.\n\n\n\nAssignment · Winter 2025\n\nSize-Biased Permutations of the Poisson–Dirichlet Distribution\nAn assignment for a graduate Bayesian nonparametrics course, showing that the size-biased permutation of the two-parameter Poisson–Dirichlet distribution is the two-parameter GEM distribution."
-  },
-  {
-    "objectID": "index.html#interests-and-goals",
-    "href": "index.html#interests-and-goals",
-    "title": "Simranjeet Bilkhu",
-    "section": "",
-    "text": "I am drawn to ideas in applied probability such as those used in computational statistics and Bayesian nonparametrics. I hope to learn new concepts, develop my own, and encounter many more during a PhD. Afterwards, I plan to pursue a faculty career where I can continue research in applied probability and share that knowledge through teaching."
   }
 ]

@@ -7,7 +7,7 @@ format: html
 
 ## Research Interests
 
-I am drawn to ideas in applied probability such as those used in computational statistics and Bayesian nonparametrics. I hope to learn new concepts, develop my own, and encounter many more during a PhD.
+I'm drawn to ideas in applied probability, such as those used in computational statistics and Bayesian nonparametrics, and I hope to encounter many more.
 
 ## Papers
 
