@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Simranjeet Bilkhu",
     "section": "",
-    "text": "Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     CV\n  \n\n  \n  \n\n\nBehold your luck! It seems that you have managed to find your way to my little site. I’m a statistician applying to PhD programs, and this is where you can get to know me a little better.\n\n\n\n\nMaster’s in Statistics, McMaster University (2026), supervised by Dr. Pratheepa Jeganathan. My thesis studied how shrinkage priors and identification constraints interact in Bayesian factor models. I presented it at the 2026 SSC Annual Meeting, and a paper is in preparation for Computational Statistics and Data Analysis.\nFirst paper, Counterexample to Continuity of Measure in Uncountable Unions, with Dr. Noah Forman, accepted in Examples and Counterexamples.\nTeaching: gave a set of lectures on martingales in a graduate stochastic processes course, and worked as a TA for three statistics courses.\nNow: Risk Analyst at goeasy.\n\nMore details are on my Education & Experience and Projects pages.\n\n\n\nApplied probability, particularly the ideas behind computational statistics and Bayesian nonparametrics.\n\n\n\nA PhD where I can learn new concepts, develop my own, and share that knowledge with others, followed by a faculty career doing research in applied probability and teaching.\n\n\n\nE-mail me at 1simranbilkhu@gmail.com, or find me on GitHub and LinkedIn."
+    "text": "Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     CV\n  \n\n  \n  \n\n\nBehold your luck! It seems that you have managed to find your way to my little site. I’m a statistician applying to PhD programs, and this is where you can get to know me a little better.\n\n\n\n\nMaster’s in Statistics, McMaster University (2026), supervised by Dr. Pratheepa Jeganathan. My thesis studied how shrinkage priors and identification constraints interact in Bayesian factor models. I presented it at the 2026 SSC Annual Meeting, and a paper is in preparation for Computational Statistics and Data Analysis.\nFirst paper, Counterexample to Continuity of Measure in Uncountable Unions, with Dr. Noah Forman, accepted in Examples and Counterexamples.\nStudent lectures: as a student in a graduate stochastic processes course where students delivered the lectures, I prepared and gave a set of lectures on martingales.\nTeaching assistant for three statistics courses at McMaster.\nNow: Risk Analyst at goeasy.\n\nMore details are on my Education & Experience and Projects pages.\n\n\n\nI am drawn to ideas in applied probability such as those used in computational statistics and Bayesian nonparametrics. I hope to learn new concepts, develop my own, and encounter many more during a PhD.\n\n\n\nA PhD where I can learn new concepts, develop my own, and share that knowledge with others, followed by a faculty career doing research in applied probability and teaching.\n\n\n\nE-mail me at 1simranbilkhu@gmail.com, or find me on GitHub and LinkedIn."
   },
   {
     "objectID": "index.html#welcome",
@@ -53,14 +53,14 @@
     "href": "index.html#what-ive-done",
     "title": "Simranjeet Bilkhu",
     "section": "",
-    "text": "Master’s in Statistics, McMaster University (2026), supervised by Dr. Pratheepa Jeganathan. My thesis studied how shrinkage priors and identification constraints interact in Bayesian factor models. I presented it at the 2026 SSC Annual Meeting, and a paper is in preparation for Computational Statistics and Data Analysis.\nFirst paper, Counterexample to Continuity of Measure in Uncountable Unions, with Dr. Noah Forman, accepted in Examples and Counterexamples.\nTeaching: gave a set of lectures on martingales in a graduate stochastic processes course, and worked as a TA for three statistics courses.\nNow: Risk Analyst at goeasy.\n\nMore details are on my Education & Experience and Projects pages."
+    "text": "Master’s in Statistics, McMaster University (2026), supervised by Dr. Pratheepa Jeganathan. My thesis studied how shrinkage priors and identification constraints interact in Bayesian factor models. I presented it at the 2026 SSC Annual Meeting, and a paper is in preparation for Computational Statistics and Data Analysis.\nFirst paper, Counterexample to Continuity of Measure in Uncountable Unions, with Dr. Noah Forman, accepted in Examples and Counterexamples.\nStudent lectures: as a student in a graduate stochastic processes course where students delivered the lectures, I prepared and gave a set of lectures on martingales.\nTeaching assistant for three statistics courses at McMaster.\nNow: Risk Analyst at goeasy.\n\nMore details are on my Education & Experience and Projects pages."
   },
   {
     "objectID": "index.html#what-im-interested-in",
     "href": "index.html#what-im-interested-in",
     "title": "Simranjeet Bilkhu",
     "section": "",
-    "text": "Applied probability, particularly the ideas behind computational statistics and Bayesian nonparametrics."
+    "text": "I am drawn to ideas in applied probability such as those used in computational statistics and Bayesian nonparametrics. I hope to learn new concepts, develop my own, and encounter many more during a PhD."
   },
   {
     "objectID": "index.html#what-i-want-to-do",
@@ -109,7 +109,7 @@
     "href": "pages/CV/projects.html#probability-theory-and-stochastic-processes",
     "title": "Projects",
     "section": "Probability Theory and Stochastic Processes",
-    "text": "Probability Theory and Stochastic Processes\n\n\nLecture · July 2025\n\nMartingales and Related Processes\nNotes for a lecture I gave on martingales and their relationships to Markov, Wiener and Poisson processes, with an introduction to stochastic kernels."
+    "text": "Probability Theory and Stochastic Processes\n\n\nStudent Lecture · July 2025\n\nMartingales and Related Processes\nNotes for lectures I gave as a student in a graduate stochastic processes course where students delivered the lectures. Covers martingales and their relationships to Markov, Wiener and Poisson processes, with an introduction to stochastic kernels."
   },
   {
     "objectID": "pages/CV/projects.html#bayesian-nonparametrics",
@@ -117,5 +117,12 @@
     "title": "Projects",
     "section": "Bayesian Nonparametrics",
     "text": "Bayesian Nonparametrics\n\n\nProof · Winter 2025\n\nFrom the CRP to the GEM Distribution\nA detailed proof that the proportions from the Chinese Restaurant Process converge in distribution to the GEM distribution.\n\n\n\nProof · Winter 2025\n\nSize-Biased Permutations of the Poisson–Dirichlet Distribution\nShowing that the size-biased permutation of the two-parameter Poisson–Dirichlet distribution is the two-parameter GEM distribution."
+  },
+  {
+    "objectID": "pages/CV/projects.html#probability",
+    "href": "pages/CV/projects.html#probability",
+    "title": "Projects",
+    "section": "Probability",
+    "text": "Probability\n\n\nStudent Lecture · July 2025\n\nMartingales and Related Processes\nNotes for lectures I gave as a student in a graduate stochastic processes course where students delivered the lectures. Covers martingales and their relationships to Markov, Wiener and Poisson processes, with an introduction to stochastic kernels.\n\n\n\nProof · Winter 2025\n\nFrom the CRP to the GEM Distribution\nA detailed proof that the proportions from the Chinese Restaurant Process converge in distribution to the GEM distribution.\n\n\n\nProof · Winter 2025\n\nSize-Biased Permutations of the Poisson–Dirichlet Distribution\nShowing that the size-biased permutation of the two-parameter Poisson–Dirichlet distribution is the two-parameter GEM distribution."
   }
 ]

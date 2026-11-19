@@ -25,6 +25,34 @@ With Noah Forman. Also on [arXiv](https://arxiv.org/pdf/2509.07168).
 :::
 :::
 
+## Probability
+
+::: card-grid
+::: project-card
+[Student Lecture · July 2025]{.card-kicker}
+
+#### [Martingales and Related Processes](files/Probability_and_Stochastics/martingales_intro_notes.pdf)
+
+Notes for lectures I gave as a student in a graduate stochastic processes course where students delivered the lectures. Covers martingales and their relationships to Markov, Wiener and Poisson processes, with an introduction to stochastic kernels.
+:::
+
+::: project-card
+[Proof · Winter 2025]{.card-kicker}
+
+#### [From the CRP to the GEM Distribution](files/NPBayes/NPBayes_hmwk3.pdf)
+
+A detailed proof that the proportions from the Chinese Restaurant Process converge in distribution to the GEM distribution.
+:::
+
+::: project-card
+[Proof · Winter 2025]{.card-kicker}
+
+#### [Size-Biased Permutations of the Poisson–Dirichlet Distribution](files/NPBayes/NPBayes_hmwk4.pdf)
+
+Showing that the size-biased permutation of the two-parameter Poisson–Dirichlet distribution is the two-parameter GEM distribution.
+:::
+:::
+
 ## Talks and Presentations
 
 ::: card-grid
@@ -102,37 +130,5 @@ K-means and agglomerative clustering of Canadian climate rasters, with the numbe
 #### [Expansion of Canadian Agriculture and the Relationship with Wetlands in Boreal Shield Provinces](files/Data_Science/780As1.pdf)
 
 66 satellite land-cover maps analysed in R, with a [Shiny app](https://simran-bilkhu.shinyapps.io/Assignment_1/) to explore provincial trends.
-:::
-:::
-
-## Probability Theory and Stochastic Processes
-
-::: card-grid
-::: project-card
-[Lecture · July 2025]{.card-kicker}
-
-#### [Martingales and Related Processes](files/Probability_and_Stochastics/martingales_intro_notes.pdf)
-
-Notes for a lecture I gave on martingales and their relationships to Markov, Wiener and Poisson processes, with an introduction to stochastic kernels.
-:::
-:::
-
-## Bayesian Nonparametrics
-
-::: card-grid
-::: project-card
-[Proof · Winter 2025]{.card-kicker}
-
-#### [From the CRP to the GEM Distribution](files/NPBayes/NPBayes_hmwk3.pdf)
-
-A detailed proof that the proportions from the Chinese Restaurant Process converge in distribution to the GEM distribution.
-:::
-
-::: project-card
-[Proof · Winter 2025]{.card-kicker}
-
-#### [Size-Biased Permutations of the Poisson–Dirichlet Distribution](files/NPBayes/NPBayes_hmwk4.pdf)
-
-Showing that the size-biased permutation of the two-parameter Poisson–Dirichlet distribution is the two-parameter GEM distribution.
 :::
 :::

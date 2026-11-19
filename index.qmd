@@ -33,14 +33,15 @@ Behold your luck! It seems that you have managed to find your way to my little s
 
 -   **Master's in Statistics**, McMaster University (2026), supervised by [Dr. Pratheepa Jeganathan](https://experts.mcmaster.ca/display/jeganp1). My [thesis](https://macsphere.mcmaster.ca/items/c0d49046-d501-47f7-a8e7-f9d782084979) studied how shrinkage priors and identification constraints interact in Bayesian factor models. I presented it at the 2026 SSC Annual Meeting, and a paper is in preparation for *Computational Statistics and Data Analysis*.
 -   **First paper**, [*Counterexample to Continuity of Measure in Uncountable Unions*](https://doi.org/10.1016/j.exco.2026.100231), with [Dr. Noah Forman](https://experts.mcmaster.ca/display/formann), accepted in *Examples and Counterexamples*.
--   **Teaching:** gave a set of [lectures on martingales](pages/CV/files/Probability_and_Stochastics/martingales_intro_notes.pdf) in a graduate stochastic processes course, and worked as a TA for three statistics courses.
+-   **Student lectures:** as a student in a graduate stochastic processes course where students delivered the lectures, I prepared and gave a set of [lectures on martingales](pages/CV/files/Probability_and_Stochastics/martingales_intro_notes.pdf).
+-   **Teaching assistant** for three statistics courses at McMaster.
 -   **Now:** Risk Analyst at goeasy.
 
 More details are on my [Education & Experience](pages/CV/experience.qmd) and [Projects](pages/CV/projects.qmd) pages.
 
 ## What I'm Interested In
 
-Applied probability, particularly the ideas behind computational statistics and Bayesian nonparametrics.
+I am drawn to ideas in applied probability such as those used in computational statistics and Bayesian nonparametrics. I hope to learn new concepts, develop my own, and encounter many more during a PhD.
 
 ## What I Want to Do
 
