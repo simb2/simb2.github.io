@@ -39,28 +39,42 @@
     "href": "index.html",
     "title": "Simranjeet Bilkhu",
     "section": "",
-    "text": "Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     CV\n  \n\n  \n  \n\n\nI’m a statistician who wants to build a career as a researcher in applied probability. I completed my Master’s in Statistics at McMaster University in 2026 under the supervision of Dr. Pratheepa Jeganathan, and I’m now applying to PhD programs in statistics.\n\nResearch interests: applied probability, particularly the ideas behind computational statistics and Bayesian nonparametrics. I hope to learn new concepts, develop my own, and encounter many more during a PhD.\n\n\n\n\n\n\nMy first experience of mathematical research started with a question I asked Dr. Noah Forman: does continuity of measure extend to uncountable unions of measurable sets? He conjectured that it holds for increasing families with an upper bound, then found a counterexample. I developed the proofs, learned the new mathematics the problem demanded, and formulated my own conjecture while exploring possible generalizations. The resulting paper, Counterexample to Continuity of Measure in Uncountable Unions, has been accepted in Examples and Counterexamples.\nMore importantly, this project showed me how much I enjoy theoretical work: developing rigorous arguments, understanding the ideas underneath them, and finding the next question to ask.\n\n\n\nMy Master’s thesis studied how sparsity from shrinkage priors interacts with structural identification constraints in Bayesian factor models. The goal was to recover the number of latent factors and the loading structure in high-dimensional settings with many irrelevant variables, motivated by the problem of uncovering latent structure in transformed microbiome data.\nThe main computational challenge was sampling the factor loadings and latent factors, whose conditional posteriors are strongly dependent. I developed a parameter expansion step for the MCMC sampler that introduces scaling parameters for the loadings and factors. With inverse-gamma priors on these scales, I showed that their conditional posteriors are generalized inverse Gaussian, so they can be sampled efficiently. I later rewrote the sampler in C++ and extended our simulations to settings with more variables than observations, where the UGLT structure gave the best predictive performance.\nI presented this work at the 2026 Statistical Society of Canada Annual Meeting, and we plan to submit it to Computational Statistics and Data Analysis. This project taught me how to think about applied problems and gave me practical skills in simulation design and computational efficiency.\n\n\n\n\nTwo graduate courses shaped my interests most. Dr. Shui Feng’s Bayesian Nonparametrics course was built around the Dirichlet process. We would study a property of the Dirichlet distribution and see how it leads to a construction of the process: gamma random variables give the gamma construction, the Pólya urn gives a construction through de Finetti’s theorem, and the beta decomposition gives the stick-breaking representation, which connects to the Chinese restaurant process through the GEM distribution. Seeing one object built in several ways, with each construction revealing a different side of it, is exactly the kind of mathematics I want to spend my time on.\nIn Dr. Forman’s stochastic processes course, students delivered the lectures. I taught a set of lectures on martingales and their relationships to Markov, Wiener, and Poisson processes, including an introduction to stochastic kernels. Preparing them forced me to know the material well enough to answer any question my classmates asked, and I found I enjoyed helping them as much as deepening my own understanding. I’ve also worked as a teaching assistant for three statistics courses, from first-year help sessions to grading upper-year probability proofs.\n\n\n\nI love learning with a reckless abandon. I like breaking complex concepts down and understanding them right from the ground up. If I had to build a house without knowing how, I would start by finding one (preferably abandoned) and taking it apart.\n\n\n\nMade with ChatGPT 5\n\n\nWhy statistics? Truth be told, part of it, like all decisions, was chance (I’m going to refrain from making a probability joke here). I happened to stumble across a field with such depth that it keeps amazing me the further I go, and one where I can grow both by challenging myself mathematically and by improving as a programmer.\n\n\n\nI want to do a PhD to learn new concepts, develop my own, and share that knowledge with others. Afterwards, I plan to pursue a faculty career where I can continue research in applied probability and teach alongside it.\nIn the meantime, I’m working full-time as a Risk Analyst at goeasy, where I test how machine learning risk models hold up when data goes missing.\n\n\n\nThe best way to reach me is by e-mail at 1simranbilkhu@gmail.com. You can also find me on GitHub and LinkedIn, or read my full CV."
+    "text": "Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     CV\n  \n\n  \n  \n\n\nBehold your luck! It seems that you have managed to find your way to my little site. I’m a statistician applying to PhD programs, and this is where you can get to know me a little better.\n\n\n\n\nMaster’s in Statistics, McMaster University (2026), supervised by Dr. Pratheepa Jeganathan. My thesis studied how shrinkage priors and identification constraints interact in Bayesian factor models. I presented it at the 2026 SSC Annual Meeting, and a paper is in preparation for Computational Statistics and Data Analysis.\nFirst paper, Counterexample to Continuity of Measure in Uncountable Unions, with Dr. Noah Forman, accepted in Examples and Counterexamples.\nTeaching: gave a set of lectures on martingales in a graduate stochastic processes course, and worked as a TA for three statistics courses.\nNow: Risk Analyst at goeasy.\n\nMore details are on my Education & Experience and Projects pages.\n\n\n\nApplied probability, particularly the ideas behind computational statistics and Bayesian nonparametrics.\n\n\n\nA PhD where I can learn new concepts, develop my own, and share that knowledge with others, followed by a faculty career doing research in applied probability and teaching.\n\n\n\nE-mail me at 1simranbilkhu@gmail.com, or find me on GitHub and LinkedIn."
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Simranjeet Bilkhu",
     "section": "",
-    "text": "Behold your luck! It seems that you have managed to find your way to my little site. My intention for this is to allow strangers to know me a little better, and for potential employers to assess whether my skills and interests align with what they are seeking.\n\nI’m currently a Risk Analyst at goeasy. Before that, I completed my Master’s in Statistics at McMaster (June 2026) under the supervision of Dr. Pratheepa Jeganathan, where my thesis compared Bayesian factor models under PLT and UGLT identification constraints. I presented this work at the 2026 Statistical Society of Canada Annual Meeting, and I’m now preparing a paper extending it."
+    "text": "Behold your luck! It seems that you have managed to find your way to my little site. I’m a statistician applying to PhD programs, and this is where you can get to know me a little better."
   },
   {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
+    "objectID": "index.html#what-ive-done",
+    "href": "index.html#what-ive-done",
     "title": "Simranjeet Bilkhu",
     "section": "",
-    "text": "The Master’s was a great program. I (and hopefully my cohort) have acquired a lot of good practical skills in our modelling courses, both in coding as well as communication under the instruction of Dr. Ben Bolker. I’ve also been given great introductions to probability theory, stochastic processes, and Bayesian nonparametrics from none other than Dr. Noah Forman, and Dr. Shui Feng. I really have learned a lot taking this track, and perhaps I’ve learned an equal amount about myself. I began to realize why exactly I’m drawn to doing all this hard stuff; it’s because I love learning with a reckless abandon. I love breaking complex concepts down, and understanding things right from the ground up. Abusing this analogy, I would describe my learning process as follows:\nSuppose I was given the process of building a house by myself. Of course, since I don’t have the current knowledge on how to build one, my task would be first would be to find a house (preferably abandoned), and start taking it apart.\n\n\n\nMade with ChatGPT 5\n\n\nSo now the question is: why did I choose statistics as my main target of obsession? Truth be told, part of it, like all decisions, was chance (I’m going to refrain from making a probability joke here). I just so happened to be lucky enough to stumble across a field with such depth that it continues to amaze me the further I go. I love the fact that I can improve myself as a statistician by challenging myself mathematically, or by improving my programming knowledge.\nThese days I’m especially drawn to ideas in applied probability, such as those used in computational statistics and Bayesian nonparametrics, and I hope to keep exploring them during a PhD.\nBut of course, it’s good to have other passions asides from statistics as well. Along with projects and resources apt for my professional portfolio, you may find some sections of this site non-career related, so feel free to take a look!"
+    "text": "Master’s in Statistics, McMaster University (2026), supervised by Dr. Pratheepa Jeganathan. My thesis studied how shrinkage priors and identification constraints interact in Bayesian factor models. I presented it at the 2026 SSC Annual Meeting, and a paper is in preparation for Computational Statistics and Data Analysis.\nFirst paper, Counterexample to Continuity of Measure in Uncountable Unions, with Dr. Noah Forman, accepted in Examples and Counterexamples.\nTeaching: gave a set of lectures on martingales in a graduate stochastic processes course, and worked as a TA for three statistics courses.\nNow: Risk Analyst at goeasy.\n\nMore details are on my Education & Experience and Projects pages."
+  },
+  {
+    "objectID": "index.html#what-im-interested-in",
+    "href": "index.html#what-im-interested-in",
+    "title": "Simranjeet Bilkhu",
+    "section": "",
+    "text": "Applied probability, particularly the ideas behind computational statistics and Bayesian nonparametrics."
+  },
+  {
+    "objectID": "index.html#what-i-want-to-do",
+    "href": "index.html#what-i-want-to-do",
+    "title": "Simranjeet Bilkhu",
+    "section": "",
+    "text": "A PhD where I can learn new concepts, develop my own, and share that knowledge with others, followed by a faculty career doing research in applied probability and teaching."
   },
   {
     "objectID": "index.html#contact-me",
     "href": "index.html#contact-me",
     "title": "Simranjeet Bilkhu",
     "section": "",
-    "text": "The best way to reach me is by e-mail at 1simranbilkhu@gmail.com. You can also find me on GitHub and LinkedIn, or read my full CV."
+    "text": "E-mail me at 1simranbilkhu@gmail.com, or find me on GitHub and LinkedIn."
   },
   {
     "objectID": "pages/CV/projects.html",
@@ -103,40 +117,5 @@
     "title": "Projects",
     "section": "Bayesian Nonparametrics",
     "text": "Bayesian Nonparametrics\n\n\nProof · Winter 2025\n\nFrom the CRP to the GEM Distribution\nA detailed proof that the proportions from the Chinese Restaurant Process converge in distribution to the GEM distribution.\n\n\n\nProof · Winter 2025\n\nSize-Biased Permutations of the Poisson–Dirichlet Distribution\nShowing that the size-biased permutation of the two-parameter Poisson–Dirichlet distribution is the two-parameter GEM distribution."
-  },
-  {
-    "objectID": "index.html#hi-im-simran",
-    "href": "index.html#hi-im-simran",
-    "title": "Simranjeet Bilkhu",
-    "section": "",
-    "text": "I’m a statistician who wants to build a career as a researcher in applied probability. I completed my Master’s in Statistics at McMaster University in 2026 under the supervision of Dr. Pratheepa Jeganathan, and I’m now applying to PhD programs in statistics.\n\nResearch interests: applied probability, particularly the ideas behind computational statistics and Bayesian nonparametrics. I hope to learn new concepts, develop my own, and encounter many more during a PhD."
-  },
-  {
-    "objectID": "index.html#research",
-    "href": "index.html#research",
-    "title": "Simranjeet Bilkhu",
-    "section": "",
-    "text": "My first experience of mathematical research started with a question I asked Dr. Noah Forman: does continuity of measure extend to uncountable unions of measurable sets? He conjectured that it holds for increasing families with an upper bound, then found a counterexample. I developed the proofs, learned the new mathematics the problem demanded, and formulated my own conjecture while exploring possible generalizations. The resulting paper, Counterexample to Continuity of Measure in Uncountable Unions, has been accepted in Examples and Counterexamples.\nMore importantly, this project showed me how much I enjoy theoretical work: developing rigorous arguments, understanding the ideas underneath them, and finding the next question to ask.\n\n\n\nMy Master’s thesis studied how sparsity from shrinkage priors interacts with structural identification constraints in Bayesian factor models. The goal was to recover the number of latent factors and the loading structure in high-dimensional settings with many irrelevant variables, motivated by the problem of uncovering latent structure in transformed microbiome data.\nThe main computational challenge was sampling the factor loadings and latent factors, whose conditional posteriors are strongly dependent. I developed a parameter expansion step for the MCMC sampler that introduces scaling parameters for the loadings and factors. With inverse-gamma priors on these scales, I showed that their conditional posteriors are generalized inverse Gaussian, so they can be sampled efficiently. I later rewrote the sampler in C++ and extended our simulations to settings with more variables than observations, where the UGLT structure gave the best predictive performance.\nI presented this work at the 2026 Statistical Society of Canada Annual Meeting, and we plan to submit it to Computational Statistics and Data Analysis. This project taught me how to think about applied problems and gave me practical skills in simulation design and computational efficiency."
-  },
-  {
-    "objectID": "index.html#learning-and-teaching",
-    "href": "index.html#learning-and-teaching",
-    "title": "Simranjeet Bilkhu",
-    "section": "",
-    "text": "Two graduate courses shaped my interests most. Dr. Shui Feng’s Bayesian Nonparametrics course was built around the Dirichlet process. We would study a property of the Dirichlet distribution and see how it leads to a construction of the process: gamma random variables give the gamma construction, the Pólya urn gives a construction through de Finetti’s theorem, and the beta decomposition gives the stick-breaking representation, which connects to the Chinese restaurant process through the GEM distribution. Seeing one object built in several ways, with each construction revealing a different side of it, is exactly the kind of mathematics I want to spend my time on.\nIn Dr. Forman’s stochastic processes course, students delivered the lectures. I taught a set of lectures on martingales and their relationships to Markov, Wiener, and Poisson processes, including an introduction to stochastic kernels. Preparing them forced me to know the material well enough to answer any question my classmates asked, and I found I enjoyed helping them as much as deepening my own understanding. I’ve also worked as a teaching assistant for three statistics courses, from first-year help sessions to grading upper-year probability proofs."
-  },
-  {
-    "objectID": "index.html#how-i-learn",
-    "href": "index.html#how-i-learn",
-    "title": "Simranjeet Bilkhu",
-    "section": "",
-    "text": "I love learning with a reckless abandon. I like breaking complex concepts down and understanding them right from the ground up. If I had to build a house without knowing how, I would start by finding one (preferably abandoned) and taking it apart.\n\n\n\nMade with ChatGPT 5\n\n\nWhy statistics? Truth be told, part of it, like all decisions, was chance (I’m going to refrain from making a probability joke here). I happened to stumble across a field with such depth that it keeps amazing me the further I go, and one where I can grow both by challenging myself mathematically and by improving as a programmer."
-  },
-  {
-    "objectID": "index.html#whats-next",
-    "href": "index.html#whats-next",
-    "title": "Simranjeet Bilkhu",
-    "section": "",
-    "text": "I want to do a PhD to learn new concepts, develop my own, and share that knowledge with others. Afterwards, I plan to pursue a faculty career where I can continue research in applied probability and teach alongside it.\nIn the meantime, I’m working full-time as a Risk Analyst at goeasy, where I test how machine learning risk models hold up when data goes missing."
   }
 ]
