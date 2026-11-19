@@ -39,13 +39,9 @@ Behold your luck! It seems that you have managed to find your way to my little s
 
 More details are on my [Education & Experience](pages/CV/experience.qmd) and [Projects](pages/CV/projects.qmd) pages.
 
-## What I'm Interested In
+## Interests and Goals
 
-I am drawn to ideas in applied probability such as those used in computational statistics and Bayesian nonparametrics. I hope to learn new concepts, develop my own, and encounter many more during a PhD.
-
-## What I Want to Do
-
-A PhD where I can learn new concepts, develop my own, and share that knowledge with others, followed by a faculty career doing research in applied probability and teaching.
+I am drawn to ideas in applied probability such as those used in computational statistics and Bayesian nonparametrics. I hope to learn new concepts, develop my own, and encounter many more during a PhD. Afterwards, I plan to pursue a faculty career where I can continue research in applied probability and share that knowledge through teaching.
 
 ## Contact Me
 

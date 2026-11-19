@@ -37,19 +37,19 @@ Notes for lectures I gave as a student in a graduate stochastic processes course
 :::
 
 ::: project-card
-[Proof · Winter 2025]{.card-kicker}
+[Assignment · Winter 2025]{.card-kicker}
 
 #### [From the CRP to the GEM Distribution](files/NPBayes/NPBayes_hmwk3.pdf)
 
-A detailed proof that the proportions from the Chinese Restaurant Process converge in distribution to the GEM distribution.
+An assignment for a graduate Bayesian nonparametrics course: a detailed proof that the proportions from the Chinese Restaurant Process converge in distribution to the GEM distribution.
 :::
 
 ::: project-card
-[Proof · Winter 2025]{.card-kicker}
+[Assignment · Winter 2025]{.card-kicker}
 
 #### [Size-Biased Permutations of the Poisson–Dirichlet Distribution](files/NPBayes/NPBayes_hmwk4.pdf)
 
-Showing that the size-biased permutation of the two-parameter Poisson–Dirichlet distribution is the two-parameter GEM distribution.
+An assignment for a graduate Bayesian nonparametrics course, showing that the size-biased permutation of the two-parameter Poisson–Dirichlet distribution is the two-parameter GEM distribution.
 :::
 :::
 
