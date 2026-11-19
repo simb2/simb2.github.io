@@ -7,36 +7,132 @@ Here are some projects that I'm pretty proud of. For now, I'm just adding projec
 
 ## Papers
 
-[Identification Constraints in Bayesian Factor Models](https://macsphere.mcmaster.ca/items/c0d49046-d501-47f7-a8e7-f9d782084979)
+::: card-grid
+::: project-card
+[Master's Thesis · 2026]{.card-kicker}
 
-[Counter-example of continuity of measure in uncountable unions](https://arxiv.org/pdf/2509.07168)
+#### [A Comparative Study of Bayesian Factor Models under PLT and UGLT Identification Constraints](https://macsphere.mcmaster.ca/items/c0d49046-d501-47f7-a8e7-f9d782084979)
+
+Supervised by Pratheepa Jeganathan.
+:::
+
+::: project-card
+[Paper · Examples and Counterexamples]{.card-kicker}
+
+#### [Counterexample to Continuity of Measure in Uncountable Unions](https://doi.org/10.1016/j.exco.2026.100231)
+
+With Noah Forman. Also on [arXiv](https://arxiv.org/pdf/2509.07168).
+:::
+:::
 
 ## Talks and Presentations
 
-[Hamiltonian Monte Carlo](files/Talks_and_Presentations/HMC_Presentation.pdf)
+::: card-grid
+::: project-card
+[Poster · SSC Annual Meeting · June 2026]{.card-kicker}
 
-[Presentation on Reversiable Jump MCMC](files/Talks_and_Presentations/RJMCMC.pdf)
+#### [A Comparative Study of Bayesian Factor Models under PLT and UGLT Identification Constraints](https://ssc.ca/en/meeting/annual/presentation/a-comparative-study-bayesian-factor-models-under-positive-lower)
 
-[Sparse Bayesian Factor Analysis when the Number of Factors is Unknown](files/Talks_and_Presentations/SBCA.pdf)
+Presented my thesis research in the Student Research Poster Presentation Competition.
+:::
 
-[Sparse Principal Component Analysis](files/Talks_and_Presentations/factor_analysis.pdf)
+::: project-card
+[Talk · April 2025]{.card-kicker}
+
+#### [Sparse Bayesian Factor Analysis when the Number of Factors is Unknown](files/Talks_and_Presentations/SBCA.pdf)
+
+A review of Frühwirth-Schnatter et al. (*Bayesian Analysis*, 2025), covering spike-and-slab priors, shrinkage priors and UGLT structures.
+:::
+
+::: project-card
+[Talk]{.card-kicker}
+
+#### [Reversible Jump MCMC](files/Talks_and_Presentations/RJMCMC.pdf)
+
+Background on reversible jump MCMC for models where the number of parameters is itself unknown.
+:::
+
+::: project-card
+[Talk · January 2025]{.card-kicker}
+
+#### [Sparse Principal Component Analysis](files/Talks_and_Presentations/factor_analysis.pdf)
+
+Links between factor analysis and PCA, and a simulation comparison of sparse PCA against varimax rotation.
+:::
+
+::: project-card
+[Talk · September 2024]{.card-kicker}
+
+#### [Hamiltonian Monte Carlo](files/Talks_and_Presentations/HMC_Presentation.pdf)
+
+A conceptual and mathematical overview of HMC, plus a co-developed Shiny app for sampling with it.
+:::
+:::
 
 ## Modelling
 
-[Expansion of Canadian Agriculture and the Relationship with Wetlands in Boreal Shield Provinces](files/Data_Science/780As1.pdf)
+::: card-grid
+::: project-card
+[Data Science · Winter 2025]{.card-kicker}
 
-[Establishing Baseline Climate Partitions via Clustering](files/Data_Science/780As3.pdf)
+#### [Impacts of Diet Intervention on the Gut Microbiome](files/Data_Science/MicrobiomeGut.pdf)
 
-[Spatio - Temporal Analysis of Bird Migration](files/Data_Science/bird_dat.pdf)
+PCA and model-based clustering of microbiome counts with 1400+ features to compare plant- and animal-based diets.
+:::
 
-[Impacts of Diet Intervention on the Gut Microbiome](files/Data_Science/MicrobiomeGut.pdf)
+::: project-card
+[Data Science · December 2024]{.card-kicker}
+
+#### [Spatio-Temporal Analysis of Bird Migration](files/Data_Science/bird_dat.pdf)
+
+A spatio-temporal mixed model cut test error from 1,377 to 31 compared with ridge-penalised Poisson regression.
+:::
+
+::: project-card
+[Data Science · November 2024]{.card-kicker}
+
+#### [Establishing Baseline Climate Partitions via Clustering](files/Data_Science/780As3.pdf)
+
+K-means and agglomerative clustering of Canadian climate rasters, with the number of clusters chosen by silhouette analysis.
+:::
+
+::: project-card
+[Data Science · September 2024]{.card-kicker}
+
+#### [Expansion of Canadian Agriculture and the Relationship with Wetlands in Boreal Shield Provinces](files/Data_Science/780As1.pdf)
+
+66 satellite land-cover maps analysed in R, with a [Shiny app](https://simran-bilkhu.shinyapps.io/Assignment_1/) to explore provincial trends.
+:::
+:::
 
 ## Probability Theory and Stochastic Processes
 
-[Notes for a lecture I gave on Martingales and related processes](files/Probability_and_Stochastics/martingales_intro_notes.pdf)
+::: card-grid
+::: project-card
+[Lecture · July 2025]{.card-kicker}
+
+#### [Martingales and Related Processes](files/Probability_and_Stochastics/martingales_intro_notes.pdf)
+
+Notes for a lecture I gave on martingales and their relationships to Markov, Wiener and Poisson processes, with an introduction to stochastic kernels.
+:::
+:::
 
 ## Bayesian Nonparametrics
 
-[Detailed proof of showing that the proportions from the CRP converge in distribution to the GEM distribution](files/NPBayes/NPBayes_hmwk3.pdf)
+::: card-grid
+::: project-card
+[Proof · Winter 2025]{.card-kicker}
 
-[Another proof showing that the size-biased permutations of the Poisson-Dirichlet distribution is given by the 2 parameter GEM distributions](files/NPBayes/NPBayes_hmwk4.pdf)
+#### [From the CRP to the GEM Distribution](files/NPBayes/NPBayes_hmwk3.pdf)
+
+A detailed proof that the proportions from the Chinese Restaurant Process converge in distribution to the GEM distribution.
+:::
+
+::: project-card
+[Proof · Winter 2025]{.card-kicker}
+
+#### [Size-Biased Permutations of the Poisson–Dirichlet Distribution](files/NPBayes/NPBayes_hmwk4.pdf)
+
+Showing that the size-biased permutation of the two-parameter Poisson–Dirichlet distribution is the two-parameter GEM distribution.
+:::
+:::

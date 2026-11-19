@@ -4,3 +4,5 @@ simb2.github.io.Rproj
 .claude
 
 **/*.quarto_ipynb
+
+*.tex

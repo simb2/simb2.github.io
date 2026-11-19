@@ -3,23 +3,36 @@ project:
   output-dir: docs
 
 website:
-  title: "Simran's Personal Website"
+  title: "Simran Bilkhu"
   site-url: https://simb2.github.io/
   navbar:
     right:
-      - href: pages/index/about.qmd
+      - href: index.qmd
         text: "Home"
       - href: pages/CV/experience.qmd
         text: "Education & Experience"
       - href: pages/CV/projects.qmd
         text: "Projects"
-      - href: pages/Interests/readings.qmd
-        text: "Readings"
       #- href: pages/Interests/other_interests.qmd
       #  text: "Other Hobbies"
+  page-footer:
+    left: "© 2026 Simran Bilkhu"
+    right:
+      - icon: github
+        href: https://github.com/simb2
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/simran-b-8974bb124/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:1simranbilkhu@gmail.com
+        aria-label: Email
+
 format:
   html:
-    theme: lux
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme.scss, theme-dark.scss]
     css: styles.css
     toc: true
 

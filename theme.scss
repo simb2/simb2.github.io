@@ -1,0 +1,267 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600;8..60,700&display=swap');
+
+// Palette (light)
+$body-bg: #fbf8f3 !default;
+$body-color: #2b2a28 !default;
+$primary: #1f6f6b !default;
+$secondary: #6b6660 !default;
+$link-color: #1f6f6b !default;
+$muted: #77716a !default;
+$card-bg: #ffffff !default;
+$card-border: #e9e2d6 !default;
+$rule: #e4ddd1 !default;
+$accent-soft: #e3efed !default;
+
+$navbar-bg: #fbf8f3 !default;
+$navbar-fg: #4a4640 !default;
+$navbar-hl: #1f6f6b !default;
+$footer-bg: #fbf8f3 !default;
+$footer-fg: #77716a !default;
+
+// Typography
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif !default;
+$headings-font-family: "Source Serif 4", Georgia, "Times New Roman", serif !default;
+$headings-font-weight: 600 !default;
+$font-size-root: 17px !default;
+$line-height-base: 1.7 !default;
+$link-decoration: none !default;
+
+/*-- scss:rules --*/
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+// Navbar
+.navbar {
+  border-bottom: 1px solid $rule;
+  box-shadow: none;
+}
+.navbar-title {
+  font-family: $headings-font-family;
+  font-weight: 700;
+  font-size: 1.2rem;
+  letter-spacing: 0.01em;
+}
+.navbar .nav-link {
+  font-weight: 500;
+  font-size: 0.95rem;
+}
+.navbar .nav-link.active {
+  color: $primary !important;
+}
+
+// Headings
+h1.title {
+  font-size: 2.6rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+h2 {
+  margin-top: 2.6rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid $rule;
+}
+h3 {
+  margin-top: 1.8rem;
+  color: $primary;
+}
+h4 {
+  font-size: 1.15rem;
+  margin-bottom: 0.2rem;
+}
+
+// Links
+main a:not(.btn):not(.about-link) {
+  color: $link-color;
+  text-decoration: underline;
+  text-decoration-color: rgba($link-color, 0.35);
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+  transition: text-decoration-color 0.15s ease;
+  &:hover {
+    text-decoration-color: $link-color;
+  }
+}
+
+// Images
+main img {
+  border-radius: 12px;
+}
+.figure-caption,
+figcaption {
+  color: $muted;
+  font-size: 0.85rem;
+  text-align: center;
+}
+
+// Home page (Quarto "about" template)
+.quarto-about-trestles {
+  .about-entity .about-image {
+    border-radius: 18px;
+    object-fit: cover;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+  }
+  .about-entity h1.title {
+    margin-top: 1.25rem;
+  }
+  .about-entity .about-links .about-link {
+    border-radius: 999px;
+    border-color: $card-border;
+    color: $body-color;
+    font-size: 0.9rem;
+    &:hover {
+      color: $primary;
+      border-color: $primary;
+    }
+  }
+}
+.about-tagline {
+  color: $muted;
+  font-size: 0.95rem;
+  text-align: center;
+  margin-top: -0.25rem;
+}
+
+// Timeline entries (Education & Experience)
+.cv-entry {
+  position: relative;
+  padding-left: 1.4rem;
+  margin: 0 0 1.6rem 0.35rem;
+  border-left: 2px solid $rule;
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: -7px;
+    top: 0.45rem;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: $body-bg;
+    border: 2px solid $primary;
+  }
+  h4 {
+    margin-top: 0;
+  }
+  ul {
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+  }
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+.cv-meta {
+  display: block;
+  color: $muted;
+  font-size: 0.9rem;
+}
+
+// Callout-style highlight block
+.lead-box {
+  background: $accent-soft;
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  margin: 1rem 0 1.5rem;
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// Download button
+.btn-cv {
+  display: inline-block;
+  background: $primary;
+  color: $body-bg !important;
+  text-decoration: none !important;
+  padding: 0.5rem 1.15rem;
+  border-radius: 999px;
+  font-weight: 500;
+  transition: opacity 0.15s ease;
+  &:hover {
+    opacity: 0.88;
+  }
+}
+
+// Project cards
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 1.5rem;
+}
+.project-card {
+  display: flex;
+  flex-direction: column;
+  background: $card-bg;
+  border: 1px solid $card-border;
+  border-radius: 14px;
+  padding: 1.05rem 1.2rem 1.15rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    border-color: rgba($primary, 0.45);
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.07);
+  }
+  h4 {
+    font-size: 1.05rem;
+    line-height: 1.35;
+    margin: 0.35rem 0 0.5rem;
+  }
+  h4 a {
+    text-decoration: none !important;
+    color: $body-color !important;
+    &:hover {
+      color: $primary !important;
+    }
+  }
+  p {
+    font-size: 0.92rem;
+    line-height: 1.6;
+    margin-bottom: 0.4rem;
+  }
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+.project-card p:has(> .card-kicker:only-child) {
+  line-height: 1.45;
+  margin-bottom: 0;
+}
+.card-kicker {
+  color: $primary;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+// Reading lists
+.reading-list ul {
+  list-style: none;
+  padding-left: 0;
+  li {
+    padding: 0.45rem 0;
+    border-bottom: 1px dashed $rule;
+  }
+  li:last-child {
+    border-bottom: none;
+  }
+}
+
+// Table of contents
+#TOC .nav-link.active,
+#quarto-margin-sidebar .nav-link.active {
+  color: $primary;
+  border-left-color: $primary;
+}
+
+// Footer
+.nav-footer {
+  border-top: 1px solid $rule;
+  font-size: 0.85rem;
+}

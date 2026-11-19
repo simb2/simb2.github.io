@@ -1,33 +1,82 @@
 ---
-title: "Education & Relevant Work Experience"
+title: "Education & Experience"
 format: html
 ---
 
-## Resume & CV
+[Download my CV](files/CV%20(November2026).pdf){.btn-cv}
 
-[Resume](files/Industry/Resume%20(May%202026).pdf)\
-[CV](files/Industry/CV%20(May%202026).pdf)
+## Research Interests
+
+I am drawn to ideas in applied probability such as those used in computational statistics and Bayesian nonparametrics. I hope to learn new concepts, develop my own, and encounter many more during a PhD.
+
+## Papers
+
+::: cv-entry
+#### [Counterexample to Continuity of Measure in Uncountable Unions](https://doi.org/10.1016/j.exco.2026.100231)
+
+[With Noah Forman · Accepted, *Examples and Counterexamples*]{.cv-meta}
+:::
+
+::: cv-entry
+#### On Identification and Sparsity in Bayesian Factor Models with Irrelevant Variables
+
+[With Pratheepa Jeganathan · To be submitted to *Computational Statistics and Data Analysis*]{.cv-meta}
+:::
 
 ## Education
-#### McMaster University — Master's in Statistics
-*McMaster University* | *Sept 2024 - April 2026*\
-**CGPA:** 11.86/12
 
-#### University of Toronto — H.B.Sc. in Applied Statistics
-*Minor in Mathematics*\
-*Sept 2018 – Apr 2024*\
-**CGPA** (final 2 yrs): 3.76/4.00
+::: cv-entry
+#### Master's in Statistics — McMaster University
+
+[Hamilton, Canada · Completed June 2026]{.cv-meta}
+
+-   **Grade:** 11.86/12
+-   **Thesis:** [*A Comparative Study of Bayesian Factor Models under PLT and UGLT Identification Constraints*](https://macsphere.mcmaster.ca/items/c0d49046-d501-47f7-a8e7-f9d782084979)
+:::
+
+::: cv-entry
+#### H.B.Sc., Specialist in Applied Statistics — University of Toronto
+
+[Minor in Mathematics · Toronto, Canada · Completed June 2024]{.cv-meta}
+
+-   **CGPA** (final 2 years): 3.76/4.00
+:::
 
 ## Work Experience
 
-#### Research Assistant
-*McMaster University | May 2026 (Ongoing)*
+::: cv-entry
+#### Risk Analyst — goeasy
 
+[August 2026 – Present]{.cv-meta}
 
-#### Teaching Assistant — Statistical Methods, Linear Regression Using SAS, Intermediate Probability Theory
-*McMaster University* | *September 2024 – December 2025*\
-- Conducted live coding sessions in SAS. Graded data analysis reports and provided feedback. Delivered tutorials and office hours for two undergraduate statistics courses; graded 500+ assessments and supported first-year students at the Math Help Centre 4 days/week.
+-   Evaluated the sensitivity of a machine learning risk model to missing data by designing and running a series of robustness tests.
+-   Translated technical findings into clear recommendations for non-technical stakeholders.
+:::
 
-#### Student Intern — IT & Data Operations
-*Sodexo Canada* | *March 2020 – August 2022*\
-- Analyzed telecom contract and operational cost data to identify savings opportunities, contributing to over $50,000 in reductions; built dashboards in Smartsheet to visualize project progress and present findings to leadership; managed structured data tracking across Canada-wide hardware deployments and asset management initiatives.
+::: cv-entry
+#### Research Assistant II — McMaster University
+
+[May 2026 – June 2026]{.cv-meta}
+
+-   Accelerated MCMC sampling algorithms through vectorization and C++ implementations, reducing computation time.
+-   Designed and ran simulation studies extending thesis research to evaluate method performance.
+-   Developed the core of an open-source statistical software package, scheduled for public release by the end of 2026.
+:::
+
+::: cv-entry
+#### Teaching Assistant — McMaster University
+
+[September 2024 – December 2025]{.cv-meta}
+
+-   Supported three statistics courses: Intermediate Probability Theory, Statistical Methods and Applications, and Linear Regression.
+-   Assessed upper-year probability proofs for correctness, rigour, and clarity.
+-   Mentored first-year students in the Math Help Centre on calculus, linear algebra, probability, programming, and proofs.
+:::
+
+::: cv-entry
+#### Student Intern, IT & Data Operations — Sodexo Canada
+
+[March 2020 – August 2022]{.cv-meta}
+
+-   Analyzed telecom contract and operational cost data to identify savings opportunities, contributing to over \$50,000 in reductions; built dashboards in Smartsheet to visualize project progress and present findings to leadership; managed structured data tracking across Canada-wide hardware deployments and asset management initiatives.
+:::

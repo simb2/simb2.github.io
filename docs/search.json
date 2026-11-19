@@ -2,58 +2,65 @@
   {
     "objectID": "pages/CV/experience.html",
     "href": "pages/CV/experience.html",
-    "title": "Education & Relevant Work Experience",
+    "title": "Education & Experience",
     "section": "",
-    "text": "Resume\nCV"
+    "text": "Download my CV"
   },
   {
-    "objectID": "pages/CV/experience.html#resume-cv",
-    "href": "pages/CV/experience.html#resume-cv",
-    "title": "Education & Relevant Work Experience",
-    "section": "",
-    "text": "Resume\nCV"
+    "objectID": "pages/CV/experience.html#research-interests",
+    "href": "pages/CV/experience.html#research-interests",
+    "title": "Education & Experience",
+    "section": "Research Interests",
+    "text": "Research Interests\nI am drawn to ideas in applied probability such as those used in computational statistics and Bayesian nonparametrics. I hope to learn new concepts, develop my own, and encounter many more during a PhD."
+  },
+  {
+    "objectID": "pages/CV/experience.html#papers",
+    "href": "pages/CV/experience.html#papers",
+    "title": "Education & Experience",
+    "section": "Papers",
+    "text": "Papers\n\nCounterexample to Continuity of Measure in Uncountable Unions\nWith Noah Forman · Accepted, Examples and Counterexamples\n\n\nOn Identification and Sparsity in Bayesian Factor Models with Irrelevant Variables\nWith Pratheepa Jeganathan · To be submitted to Computational Statistics and Data Analysis"
   },
   {
     "objectID": "pages/CV/experience.html#education",
     "href": "pages/CV/experience.html#education",
-    "title": "Education & Relevant Work Experience",
+    "title": "Education & Experience",
     "section": "Education",
-    "text": "Education\n\nMcMaster University — Master’s in Statistics\nMcMaster University | Sept 2024 - April 2026\nCGPA: 11.86/12\n\n\nUniversity of Toronto — H.B.Sc. in Applied Statistics\nMinor in Mathematics\nSept 2018 – Apr 2024\nCGPA (final 2 yrs): 3.76/4.00"
+    "text": "Education\n\nMaster’s in Statistics — McMaster University\nHamilton, Canada · Completed June 2026\n\nGrade: 11.86/12\nThesis: A Comparative Study of Bayesian Factor Models under PLT and UGLT Identification Constraints\n\n\n\nH.B.Sc., Specialist in Applied Statistics — University of Toronto\nMinor in Mathematics · Toronto, Canada · Completed June 2024\n\nCGPA (final 2 years): 3.76/4.00"
   },
   {
     "objectID": "pages/CV/experience.html#work-experience",
     "href": "pages/CV/experience.html#work-experience",
-    "title": "Education & Relevant Work Experience",
+    "title": "Education & Experience",
     "section": "Work Experience",
-    "text": "Work Experience\n\nResearch Assistant\nMcMaster University | May 2026 (Ongoing)\n\n\nTeaching Assistant — Statistical Methods, Linear Regression Using SAS, Intermediate Probability Theory\nMcMaster University | September 2024 – December 2025\n- Conducted live coding sessions in SAS. Graded data analysis reports and provided feedback. Delivered tutorials and office hours for two undergraduate statistics courses; graded 500+ assessments and supported first-year students at the Math Help Centre 4 days/week.\n\n\nStudent Intern — IT & Data Operations\nSodexo Canada | March 2020 – August 2022\n- Analyzed telecom contract and operational cost data to identify savings opportunities, contributing to over $50,000 in reductions; built dashboards in Smartsheet to visualize project progress and present findings to leadership; managed structured data tracking across Canada-wide hardware deployments and asset management initiatives."
+    "text": "Work Experience\n\nRisk Analyst — goeasy\nAugust 2026 – Present\n\nEvaluated the sensitivity of a machine learning risk model to missing data by designing and running a series of robustness tests.\nTranslated technical findings into clear recommendations for non-technical stakeholders.\n\n\n\nResearch Assistant II — McMaster University\nMay 2026 – June 2026\n\nAccelerated MCMC sampling algorithms through vectorization and C++ implementations, reducing computation time.\nDesigned and ran simulation studies extending thesis research to evaluate method performance.\nDeveloped the core of an open-source statistical software package, scheduled for public release by the end of 2026.\n\n\n\nTeaching Assistant — McMaster University\nSeptember 2024 – December 2025\n\nSupported three statistics courses: Intermediate Probability Theory, Statistical Methods and Applications, and Linear Regression.\nAssessed upper-year probability proofs for correctness, rigour, and clarity.\nMentored first-year students in the Math Help Centre on calculus, linear algebra, probability, programming, and proofs.\n\n\n\nStudent Intern, IT & Data Operations — Sodexo Canada\nMarch 2020 – August 2022\n\nAnalyzed telecom contract and operational cost data to identify savings opportunities, contributing to over $50,000 in reductions; built dashboards in Smartsheet to visualize project progress and present findings to leadership; managed structured data tracking across Canada-wide hardware deployments and asset management initiatives."
   },
   {
-    "objectID": "pages/index/about.html",
-    "href": "pages/index/about.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Simranjeet Bilkhu",
     "section": "",
-    "text": "Behold your luck! It seems that you have managed to find your way to my little site. My intention for this is to allow strangers to know me a little better, and for potential employers to assess whether my skills and interests align with what they are seeking.\n\n\n\nA picture of me"
+    "text": "Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     CV\n  \n\n  \n  \n\n\nI’m a statistician who wants to build a career as a researcher in applied probability. I completed my Master’s in Statistics at McMaster University in 2026 under the supervision of Dr. Pratheepa Jeganathan, and I’m now applying to PhD programs in statistics.\n\nResearch interests: applied probability, particularly the ideas behind computational statistics and Bayesian nonparametrics. I hope to learn new concepts, develop my own, and encounter many more during a PhD.\n\n\n\n\n\n\nMy first experience of mathematical research started with a question I asked Dr. Noah Forman: does continuity of measure extend to uncountable unions of measurable sets? He conjectured that it holds for increasing families with an upper bound, then found a counterexample. I developed the proofs, learned the new mathematics the problem demanded, and formulated my own conjecture while exploring possible generalizations. The resulting paper, Counterexample to Continuity of Measure in Uncountable Unions, has been accepted in Examples and Counterexamples.\nMore importantly, this project showed me how much I enjoy theoretical work: developing rigorous arguments, understanding the ideas underneath them, and finding the next question to ask.\n\n\n\nMy Master’s thesis studied how sparsity from shrinkage priors interacts with structural identification constraints in Bayesian factor models. The goal was to recover the number of latent factors and the loading structure in high-dimensional settings with many irrelevant variables, motivated by the problem of uncovering latent structure in transformed microbiome data.\nThe main computational challenge was sampling the factor loadings and latent factors, whose conditional posteriors are strongly dependent. I developed a parameter expansion step for the MCMC sampler that introduces scaling parameters for the loadings and factors. With inverse-gamma priors on these scales, I showed that their conditional posteriors are generalized inverse Gaussian, so they can be sampled efficiently. I later rewrote the sampler in C++ and extended our simulations to settings with more variables than observations, where the UGLT structure gave the best predictive performance.\nI presented this work at the 2026 Statistical Society of Canada Annual Meeting, and we plan to submit it to Computational Statistics and Data Analysis. This project taught me how to think about applied problems and gave me practical skills in simulation design and computational efficiency.\n\n\n\n\nTwo graduate courses shaped my interests most. Dr. Shui Feng’s Bayesian Nonparametrics course was built around the Dirichlet process. We would study a property of the Dirichlet distribution and see how it leads to a construction of the process: gamma random variables give the gamma construction, the Pólya urn gives a construction through de Finetti’s theorem, and the beta decomposition gives the stick-breaking representation, which connects to the Chinese restaurant process through the GEM distribution. Seeing one object built in several ways, with each construction revealing a different side of it, is exactly the kind of mathematics I want to spend my time on.\nIn Dr. Forman’s stochastic processes course, students delivered the lectures. I taught a set of lectures on martingales and their relationships to Markov, Wiener, and Poisson processes, including an introduction to stochastic kernels. Preparing them forced me to know the material well enough to answer any question my classmates asked, and I found I enjoyed helping them as much as deepening my own understanding. I’ve also worked as a teaching assistant for three statistics courses, from first-year help sessions to grading upper-year probability proofs.\n\n\n\nI love learning with a reckless abandon. I like breaking complex concepts down and understanding them right from the ground up. If I had to build a house without knowing how, I would start by finding one (preferably abandoned) and taking it apart.\n\n\n\nMade with ChatGPT 5\n\n\nWhy statistics? Truth be told, part of it, like all decisions, was chance (I’m going to refrain from making a probability joke here). I happened to stumble across a field with such depth that it keeps amazing me the further I go, and one where I can grow both by challenging myself mathematically and by improving as a programmer.\n\n\n\nI want to do a PhD to learn new concepts, develop my own, and share that knowledge with others. Afterwards, I plan to pursue a faculty career where I can continue research in applied probability and teach alongside it.\nIn the meantime, I’m working full-time as a Risk Analyst at goeasy, where I test how machine learning risk models hold up when data goes missing.\n\n\n\nThe best way to reach me is by e-mail at 1simranbilkhu@gmail.com. You can also find me on GitHub and LinkedIn, or read my full CV."
   },
   {
-    "objectID": "pages/index/about.html#welcome",
-    "href": "pages/index/about.html#welcome",
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
     "title": "Simranjeet Bilkhu",
     "section": "",
-    "text": "Behold your luck! It seems that you have managed to find your way to my little site. My intention for this is to allow strangers to know me a little better, and for potential employers to assess whether my skills and interests align with what they are seeking.\n\n\n\nA picture of me"
+    "text": "Behold your luck! It seems that you have managed to find your way to my little site. My intention for this is to allow strangers to know me a little better, and for potential employers to assess whether my skills and interests align with what they are seeking.\n\nI’m currently a Risk Analyst at goeasy. Before that, I completed my Master’s in Statistics at McMaster (June 2026) under the supervision of Dr. Pratheepa Jeganathan, where my thesis compared Bayesian factor models under PLT and UGLT identification constraints. I presented this work at the 2026 Statistical Society of Canada Annual Meeting, and I’m now preparing a paper extending it."
   },
   {
-    "objectID": "pages/index/about.html#about-me",
-    "href": "pages/index/about.html#about-me",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
     "title": "Simranjeet Bilkhu",
-    "section": "About Me",
-    "text": "About Me\nI just completed my Master’s in Statistics at McMaster under the supervision of Dr. Pratheepa Jeganathan. It was a great program. I (and hopefully my cohort) have acquired a lot of good practical skills in our modelling courses, both in coding as well as communication under the instruction of Dr. Ben Bolker. I’ve also been given great introductions to probability theory, stochastic processes, and Bayesian nonparametrics from non other than Dr. Noah Forman, and Dr. Shui Feng. I really have learned a lot taking this track, and perhaps I’ve learned an equal amount about myself. I began to realize why exactly I’m drawn to doing all this hard stuff; it’s because I love learning with a reckless abandon. I love breaking complex concepts down, and understanding things right from the ground up. Abusing this analogy, I would describe my learning process as follows:\nSuppose I was given the process of building a house by myself. Of course, since I don’t have the current knowledge on how to build one, my task would be first would be to find a house (preferably abandoned), and start taking it apart.\n\n\n\nMade with ChatGPT 5\n\n\nSo now the question is: why did I choose statistics as my main target of obsession? Truth be told, part of it, like all decisions, was chance (I’m going to refrain from making a probability joke here). I just so happened to be lucky enough to stumble across a field with such depth that it continues to amaze me the further I go. I love the fact that I can improve myself as a statistician by challenging myself mathematically, or by improving my programming knowledge.\nBut of course, it’s good to have other passions asides from statistics as well. Along with projects and resources apt for my professional portfolio, you may find some sections of this site non-career related, so feel free to take a look!"
+    "section": "",
+    "text": "The Master’s was a great program. I (and hopefully my cohort) have acquired a lot of good practical skills in our modelling courses, both in coding as well as communication under the instruction of Dr. Ben Bolker. I’ve also been given great introductions to probability theory, stochastic processes, and Bayesian nonparametrics from none other than Dr. Noah Forman, and Dr. Shui Feng. I really have learned a lot taking this track, and perhaps I’ve learned an equal amount about myself. I began to realize why exactly I’m drawn to doing all this hard stuff; it’s because I love learning with a reckless abandon. I love breaking complex concepts down, and understanding things right from the ground up. Abusing this analogy, I would describe my learning process as follows:\nSuppose I was given the process of building a house by myself. Of course, since I don’t have the current knowledge on how to build one, my task would be first would be to find a house (preferably abandoned), and start taking it apart.\n\n\n\nMade with ChatGPT 5\n\n\nSo now the question is: why did I choose statistics as my main target of obsession? Truth be told, part of it, like all decisions, was chance (I’m going to refrain from making a probability joke here). I just so happened to be lucky enough to stumble across a field with such depth that it continues to amaze me the further I go. I love the fact that I can improve myself as a statistician by challenging myself mathematically, or by improving my programming knowledge.\nThese days I’m especially drawn to ideas in applied probability, such as those used in computational statistics and Bayesian nonparametrics, and I hope to keep exploring them during a PhD.\nBut of course, it’s good to have other passions asides from statistics as well. Along with projects and resources apt for my professional portfolio, you may find some sections of this site non-career related, so feel free to take a look!"
   },
   {
-    "objectID": "pages/index/about.html#contact-me",
-    "href": "pages/index/about.html#contact-me",
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
     "title": "Simranjeet Bilkhu",
-    "section": "Contact Me",
-    "text": "Contact Me\nE-mail: bilkhs2@mcmaster.ca"
+    "section": "",
+    "text": "The best way to reach me is by e-mail at 1simranbilkhu@gmail.com. You can also find me on GitHub and LinkedIn, or read my full CV."
   },
   {
     "objectID": "pages/CV/projects.html",
@@ -67,62 +74,69 @@
     "href": "pages/CV/projects.html#papers",
     "title": "Projects",
     "section": "Papers",
-    "text": "Papers\nIdentification Constraints in Bayesian Factor Models\nCounter-example of continuity of measure in uncountable unions"
+    "text": "Papers\n\n\nMaster’s Thesis · 2026\n\nA Comparative Study of Bayesian Factor Models under PLT and UGLT Identification Constraints\nSupervised by Pratheepa Jeganathan.\n\n\n\nPaper · Examples and Counterexamples\n\nCounterexample to Continuity of Measure in Uncountable Unions\nWith Noah Forman. Also on arXiv."
   },
   {
     "objectID": "pages/CV/projects.html#talks-and-presentations",
     "href": "pages/CV/projects.html#talks-and-presentations",
     "title": "Projects",
     "section": "Talks and Presentations",
-    "text": "Talks and Presentations\nHamiltonian Monte Carlo\nPresentation on Reversiable Jump MCMC\nSparse Bayesian Factor Analysis when the Number of Factors is Unknown\nSparse Principal Component Analysis"
+    "text": "Talks and Presentations\n\n\nPoster · SSC Annual Meeting · June 2026\n\nA Comparative Study of Bayesian Factor Models under PLT and UGLT Identification Constraints\nPresented my thesis research in the Student Research Poster Presentation Competition.\n\n\n\nTalk · April 2025\n\nSparse Bayesian Factor Analysis when the Number of Factors is Unknown\nA review of Frühwirth-Schnatter et al. (Bayesian Analysis, 2025), covering spike-and-slab priors, shrinkage priors and UGLT structures.\n\n\n\nTalk\n\nReversible Jump MCMC\nBackground on reversible jump MCMC for models where the number of parameters is itself unknown.\n\n\n\nTalk · January 2025\n\nSparse Principal Component Analysis\nLinks between factor analysis and PCA, and a simulation comparison of sparse PCA against varimax rotation.\n\n\n\nTalk · September 2024\n\nHamiltonian Monte Carlo\nA conceptual and mathematical overview of HMC, plus a co-developed Shiny app for sampling with it."
   },
   {
     "objectID": "pages/CV/projects.html#modelling",
     "href": "pages/CV/projects.html#modelling",
     "title": "Projects",
     "section": "Modelling",
-    "text": "Modelling\nExpansion of Canadian Agriculture and the Relationship with Wetlands in Boreal Shield Provinces\nEstablishing Baseline Climate Partitions via Clustering\nSpatio - Temporal Analysis of Bird Migration\nImpacts of Diet Intervention on the Gut Microbiome"
+    "text": "Modelling\n\n\nData Science · Winter 2025\n\nImpacts of Diet Intervention on the Gut Microbiome\nPCA and model-based clustering of microbiome counts with 1400+ features to compare plant- and animal-based diets.\n\n\n\nData Science · December 2024\n\nSpatio-Temporal Analysis of Bird Migration\nA spatio-temporal mixed model cut test error from 1,377 to 31 compared with ridge-penalised Poisson regression.\n\n\n\nData Science · November 2024\n\nEstablishing Baseline Climate Partitions via Clustering\nK-means and agglomerative clustering of Canadian climate rasters, with the number of clusters chosen by silhouette analysis.\n\n\n\nData Science · September 2024\n\nExpansion of Canadian Agriculture and the Relationship with Wetlands in Boreal Shield Provinces\n66 satellite land-cover maps analysed in R, with a Shiny app to explore provincial trends."
   },
   {
     "objectID": "pages/CV/projects.html#probability-theory-and-stochastic-processes",
     "href": "pages/CV/projects.html#probability-theory-and-stochastic-processes",
     "title": "Projects",
     "section": "Probability Theory and Stochastic Processes",
-    "text": "Probability Theory and Stochastic Processes\nNotes for a lecture I gave on Martingales and related processes"
+    "text": "Probability Theory and Stochastic Processes\n\n\nLecture · July 2025\n\nMartingales and Related Processes\nNotes for a lecture I gave on martingales and their relationships to Markov, Wiener and Poisson processes, with an introduction to stochastic kernels."
   },
   {
     "objectID": "pages/CV/projects.html#bayesian-nonparametrics",
     "href": "pages/CV/projects.html#bayesian-nonparametrics",
     "title": "Projects",
     "section": "Bayesian Nonparametrics",
-    "text": "Bayesian Nonparametrics\nDetailed proof of showing that the proportions from the CRP converge in distribution to the GEM distribution\nAnother proof showing that the size-biased permutations of the Poisson-Dirichlet distribution is given by the 2 parameter GEM distributions"
+    "text": "Bayesian Nonparametrics\n\n\nProof · Winter 2025\n\nFrom the CRP to the GEM Distribution\nA detailed proof that the proportions from the Chinese Restaurant Process converge in distribution to the GEM distribution.\n\n\n\nProof · Winter 2025\n\nSize-Biased Permutations of the Poisson–Dirichlet Distribution\nShowing that the size-biased permutation of the two-parameter Poisson–Dirichlet distribution is the two-parameter GEM distribution."
   },
   {
-    "objectID": "pages/Interests/readings.html",
-    "href": "pages/Interests/readings.html",
-    "title": "Readings and Resources",
+    "objectID": "index.html#hi-im-simran",
+    "href": "index.html#hi-im-simran",
+    "title": "Simranjeet Bilkhu",
     "section": "",
-    "text": "As stated in my bio, I love learning. I’ve added some of my favourite resources below. If you disagree with some of my resources or have any suggestions, feel free to contact me."
+    "text": "I’m a statistician who wants to build a career as a researcher in applied probability. I completed my Master’s in Statistics at McMaster University in 2026 under the supervision of Dr. Pratheepa Jeganathan, and I’m now applying to PhD programs in statistics.\n\nResearch interests: applied probability, particularly the ideas behind computational statistics and Bayesian nonparametrics. I hope to learn new concepts, develop my own, and encounter many more during a PhD."
   },
   {
-    "objectID": "pages/Interests/readings.html#statistics",
-    "href": "pages/Interests/readings.html#statistics",
-    "title": "Readings and Resources",
-    "section": "Statistics",
-    "text": "Statistics\nStatistical Inference by Berger and Casella\nBayesian Forecasting and Dynamic Models by Mike West and Jeff Harrison\nAn Introduction to Statistical Learning with Applications in R\nProbabilistic Machine Learning: An Introduction by Kevin Patrick Murphy\n(Paper) Bayesian Workflow by Gelman et. al\nRegression Modeling Strategies by Frank Harrell Jr."
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Simranjeet Bilkhu",
+    "section": "",
+    "text": "My first experience of mathematical research started with a question I asked Dr. Noah Forman: does continuity of measure extend to uncountable unions of measurable sets? He conjectured that it holds for increasing families with an upper bound, then found a counterexample. I developed the proofs, learned the new mathematics the problem demanded, and formulated my own conjecture while exploring possible generalizations. The resulting paper, Counterexample to Continuity of Measure in Uncountable Unions, has been accepted in Examples and Counterexamples.\nMore importantly, this project showed me how much I enjoy theoretical work: developing rigorous arguments, understanding the ideas underneath them, and finding the next question to ask.\n\n\n\nMy Master’s thesis studied how sparsity from shrinkage priors interacts with structural identification constraints in Bayesian factor models. The goal was to recover the number of latent factors and the loading structure in high-dimensional settings with many irrelevant variables, motivated by the problem of uncovering latent structure in transformed microbiome data.\nThe main computational challenge was sampling the factor loadings and latent factors, whose conditional posteriors are strongly dependent. I developed a parameter expansion step for the MCMC sampler that introduces scaling parameters for the loadings and factors. With inverse-gamma priors on these scales, I showed that their conditional posteriors are generalized inverse Gaussian, so they can be sampled efficiently. I later rewrote the sampler in C++ and extended our simulations to settings with more variables than observations, where the UGLT structure gave the best predictive performance.\nI presented this work at the 2026 Statistical Society of Canada Annual Meeting, and we plan to submit it to Computational Statistics and Data Analysis. This project taught me how to think about applied problems and gave me practical skills in simulation design and computational efficiency."
   },
   {
-    "objectID": "pages/Interests/readings.html#programming",
-    "href": "pages/Interests/readings.html#programming",
-    "title": "Readings and Resources",
-    "section": "Programming",
-    "text": "Programming\nAdvanced R by Hadley Wickham\nThe R Inferno by Patrick Burns\nR for Data Science by Hadley Wickham and Garrett Grolemund\nPython Data Science Handbook\nIntroduction to Computation and Programming Using Python by John V. Guttag"
+    "objectID": "index.html#learning-and-teaching",
+    "href": "index.html#learning-and-teaching",
+    "title": "Simranjeet Bilkhu",
+    "section": "",
+    "text": "Two graduate courses shaped my interests most. Dr. Shui Feng’s Bayesian Nonparametrics course was built around the Dirichlet process. We would study a property of the Dirichlet distribution and see how it leads to a construction of the process: gamma random variables give the gamma construction, the Pólya urn gives a construction through de Finetti’s theorem, and the beta decomposition gives the stick-breaking representation, which connects to the Chinese restaurant process through the GEM distribution. Seeing one object built in several ways, with each construction revealing a different side of it, is exactly the kind of mathematics I want to spend my time on.\nIn Dr. Forman’s stochastic processes course, students delivered the lectures. I taught a set of lectures on martingales and their relationships to Markov, Wiener, and Poisson processes, including an introduction to stochastic kernels. Preparing them forced me to know the material well enough to answer any question my classmates asked, and I found I enjoyed helping them as much as deepening my own understanding. I’ve also worked as a teaching assistant for three statistics courses, from first-year help sessions to grading upper-year probability proofs."
   },
   {
-    "objectID": "pages/Interests/readings.html#math",
-    "href": "pages/Interests/readings.html#math",
-    "title": "Readings and Resources",
-    "section": "Math",
-    "text": "Math\n\nAnalysis\nUnderstanding Analysis by Steven Abbott\nReal Analysis by Royden and Fitzpatrick\nReal Analysis by Stein and Shakarchi\n\n\nLinear Algebra\nLinear Algebra Done Right by Sheldon Axler\nLinear Algebra and it’s Applications by Gilbert Strang\n\n\nProbability Theory\nKnowing the Odds: An Introduction to Probability by John B. Walsh\nProbability: Theory and Examples by Rick Durrettc\nProbability and Stochastics by Erhan Cinlar\n\n\nOther\nComplex Variables by Steven D. Fisher\nA Walk Through Combinatorics by Miklos Bona"
+    "objectID": "index.html#how-i-learn",
+    "href": "index.html#how-i-learn",
+    "title": "Simranjeet Bilkhu",
+    "section": "",
+    "text": "I love learning with a reckless abandon. I like breaking complex concepts down and understanding them right from the ground up. If I had to build a house without knowing how, I would start by finding one (preferably abandoned) and taking it apart.\n\n\n\nMade with ChatGPT 5\n\n\nWhy statistics? Truth be told, part of it, like all decisions, was chance (I’m going to refrain from making a probability joke here). I happened to stumble across a field with such depth that it keeps amazing me the further I go, and one where I can grow both by challenging myself mathematically and by improving as a programmer."
+  },
+  {
+    "objectID": "index.html#whats-next",
+    "href": "index.html#whats-next",
+    "title": "Simranjeet Bilkhu",
+    "section": "",
+    "text": "I want to do a PhD to learn new concepts, develop my own, and share that knowledge with others. Afterwards, I plan to pursue a faculty career where I can continue research in applied probability and teach alongside it.\nIn the meantime, I’m working full-time as a Risk Analyst at goeasy, where I test how machine learning risk models hold up when data goes missing."
   }
 ]
